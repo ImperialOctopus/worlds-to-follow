@@ -56,7 +56,7 @@ const config = {
 
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/desert_sand.jpg",
       navbar: {
         title: "Worlds to Follow",
         logo: {
