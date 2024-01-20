@@ -27,7 +27,7 @@ Spend all your mana. Your next roll in a Hand skill this turn has +X/3.
 speed="action"
 title="Trace Vital Organs"
 subtitle="Magical ability">
-Gain extra mana equal to your Energetics. At the start of your next turn, your Energetics and Endurance fall to 1.
+Gain extra mana equal to your Energetics. At the start of your next turn, your Endurance falls to 1 and you fall unconscious.
 </AbilityCard>
 
 ### 7: Protection Subroutine
