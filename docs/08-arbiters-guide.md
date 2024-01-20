@@ -1,4 +1,6 @@
-# 3: Arbiter's Guide
+# Arbiter's Guide
+
+This page contains (what I think is) helpful advice for someone running a game of World to Follow. Everything here is just advice: don't take it too seriously!
 
 ## Skill Difficulty
 
@@ -25,28 +27,29 @@ The following tables show approximate probabilities for success for a character 
 | +7  | 97%   | 90% | 76% | 56% | 34% |
 | +9  | 99.6% | 97% | 90% | 76% | 56% |
 
-## Spell Descriptions
+## Character Re-Builds
 
-### Speed
+As players become more familiar with the game, they might realise they aren't happy with earlier decisions they made about their character's build. Some people may think of this as a prime role-playing opportunity, but I would allow anyone unhappy with their choices to re-build their character at the end of a story arc.
 
-### Range
+This isn't intended to allow characters to routinely adapt to challenges they foresee, but rather make decision-making during normal advancement easier (it's easier to choose if you know your decision doesn't have to be final!)
 
-### Target
+## Potion Brewing, and Money-Making
 
-### Subject
+The potion brewing in this game is deliberately very unrestrictive; you can make as many potions as you like, and carry as many as you like. Given these rules, I intend for Arbiters to decide for their individual games whether potions need any limitations. I think any of the following would be appropriate:
 
-### Cost
-
-### Concentration
+- Characters can each hold only 6 (or 3, or more) potions.
+- Characters can only brew one potion per rest.
+-
 
 ## Miscellaneous
 
 ### Depths 9: Cosmosphere (Creating a New Spell)
 
-In this game, flavour is already free (i.e. spells can do ANYTHING thematically, so long as they hold to the statistics described in the rules). The purpose of Cosmosphere is to allow the creation of spell effects either outside of what is possible with the rules, or to give characters one signature "overpowered" spell.
+In this game, flavour is already free (i.e. spells can do ANYTHING thematically, so long as they hold to the statistics described in the rules). The purpose of Cosmosphere is to allow the creation of spell effects either outside of what is possible with the rules, or to give spellcasting-focused characters one signature "overpowered" spell.
 
 - Your new spell exists outside of the existing Arts; no spell modifiers apply to it, and it's not affected by abilities like _Spirituality 7: Touch of Otherwhere_.
 - As it's not within an Art, you can't lose access to it with _Arcane 9: Paradigm Shift_.
+- As it's not within an Art, _Personal Reality 9: World Weaver_ does not affect it.
 
 If you choose to base your new spell on an effect that can already be created with magic, use the following guidelines:
 

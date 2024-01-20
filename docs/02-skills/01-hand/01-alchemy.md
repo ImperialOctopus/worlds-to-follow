@@ -34,7 +34,7 @@ speed="ritual"
 title="Potion Engineering"
 subtitle="Mundane ability"
 parameters={["Speed: Ritual."]}>
-Attempt to create a potion using an Alchemy roll.
+Create a potion from your known potion formulae.
 </AbilityCard>
 
 ### 5: Field Alchemist

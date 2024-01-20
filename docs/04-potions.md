@@ -1,8 +1,17 @@
 # Potions
 
+## Using Potions
+
+Characters can drink potions they are holding as an action on their turn. The potion is added to their active potion effects. If a character already has its maximum number of active potion effects and would gain another, it first loses the oldest of its currently active effects. Characters normally only have one slot for potion effects; gaining points in Alchemy can increase that limit.
+Characters also lose all active potion effects when they rest.
+
+Potion effects only work while they remain active; their effects disappear when the potion effect ends.
+
+For example, a character with 3 Endurance (and only one potion slot) drinks a potion with the effect "Gain +1 Endurance", temporarily increasing his Endurance to 4. He then takes 3 damage, reducing his Endurance to 1. If he then drinks a different potion, it replaces the effect active on him. His Endurance reduces by 1, and he is left helpless.
+
 ## Creating Potions
 
-## Learning Formulae
+To create potions, you must know the formula for the potion you're creating, and must use the Potion Engineering action gained from the Alchemy skill.
 
 ## Potion Formulae
 

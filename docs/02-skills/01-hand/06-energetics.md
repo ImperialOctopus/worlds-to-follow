@@ -3,6 +3,7 @@
 Trade your life for power.
 
 Turn blood into power, and power into fire. Wield the most mana-thirsty spells, and resist them.
+The light that burns twice as bright burns half as long — and you have burned so very very brightly.
 
 Those skilled in Energetics:
 
