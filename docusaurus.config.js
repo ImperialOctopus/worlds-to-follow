@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "imperialoctopus", // Usually your GitHub org/user name.
-  projectName: "wtf", // Usually your repo name.
+  projectName: "worlds-to-follow", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -71,7 +71,7 @@ const config = {
             label: "Guide",
           },
           {
-            href: "https://github.com/imperialoctopus/",
+            href: "https://github.com/imperialoctopus/worlds-to-follow",
             label: "GitHub",
             position: "right",
           },
@@ -80,6 +80,11 @@ const config = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      colorMode: {
+        defaultMode: "dark",
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
       },
       docs: {
         sidebar: {
