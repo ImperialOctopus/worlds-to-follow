@@ -14,7 +14,7 @@ Contested rolls are described as "Offence vs. Defence". The character taking the
 
 ### Edge
 
-If you have an edge on a roll, roll an extra d6, and take the highest 2d6 from your pool. Multiple edges on the same roll stack.
+If you have an edge on a roll, roll an extra d6 on top of the usual two. If you have more than one edge on a roll from different sources, each one gives you an extra d6. Keep the highest two d6s from all those that you roll.
 
 ### Entitlement
 
