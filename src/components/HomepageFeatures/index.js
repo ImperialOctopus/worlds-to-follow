@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const FeatureList = [
   {
     title: "Tea",
-    Img: require("@site/static/img/tea.png").default,
+    Img: require("@site/static/img/home/tea.png").default,
     description: (
       <>
         Tea was designed with you in mind. Tea was designed with you in mind.
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: "Focus on What Matters",
-    Img: require("@site/static/img/kombucha.jpg").default,
+    Img: require("@site/static/img/home/kombucha.jpg").default,
     description: (
       <>
         Sometimes in life it can be hard to find meaningful connections. Scream
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: "Hide Amongst Foliage",
-    Img: require("@site/static/img/cat.jpg").default,
+    Img: require("@site/static/img/home/cat.jpg").default,
     description: <>Do not be alarmed; the creature will not hurt you.</>,
   },
 ];
