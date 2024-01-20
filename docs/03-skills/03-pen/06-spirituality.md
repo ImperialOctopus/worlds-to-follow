@@ -72,7 +72,7 @@ You learn the magical Art Distortion, which doesn't count towards your maximum n
 speed="enhancement"
 title="Omen"
 subtitle="Enhancement">
-When you rest, roll 2d6 and record the outcome as an omen. You can choose to replace a roll you make, or a roll another creature makes on offence or defence against you, with the omen. Once used, the omen is lost.
+When you rest, roll 2d6 and record the outcome as an omen. When you make a roll, or another creature makes a roll against you, you can choose to replace the result of the dice roll with your omen. Choose before the dice are rolled, and add any skills and bonuses as normal. Once used, the omen is lost.
 </AbilityCard>
 
 #### 7: Touch of Otherwhere
