@@ -1,20 +1,96 @@
 # Artistry
 
-- Creative Writing
-- Textiles
-- Jewellery
-- Leatherworking
-- Cooking
-- Gardening
-- Herbalism
-- Painting
-- Calligraphy
-- Makeup
-- Smithing
-- Carpentry
-- Masonry
-- Pottery
-- Glassblowing
-- Cartography
-- Cryptography
-- Forensics
+## Introduction
+
+This is a list of _suggested_ artistries. Artistries will depend on your setting, representing fields of art and craft available to study in that setting. For example, characters in a setting which hasn't invented metalworking won't be able to learn Smithing.
+
+:::info Advice
+
+Artistries most straightforwardly give your character things to do during downtime, but you should consider how your skills might be applied to unusual situations. Some examples of unusual uses for each Artistry have been provided, but these are only guidelines — you can propose using an Artistry in any situation you think it applies, and your Arbiter can decline to use any of my suggestions if they wish.
+
+:::
+
+## Rolling Skills
+
+When you try and do something covered by an Artistry you're proficient with, most of the time there is no need to roll. If you've gone through culinary school, or spent years training as a painter, you're going to succeed almost all of the time when you attempt things you've practiced. Producing something of unusual quality is generally going to require more time, rather than more dice luck.
+
+When you're applying your Artistry to new situations, however, skill rolls will generally be called for.
+
+## Suggested Artistries
+
+### Creative Writing
+
+Put pen to paper and come up with something new. Or just recycle things you like from books you've read; I won't judge.
+
+#### Suggested Uses
+
+- Fabricating a believable fake identity.
+- Recognising a particularly cliché murder method.
+
+### Textiles
+
+#### Suggested Uses
+
+### Jewellery
+
+#### Suggested Uses
+
+### Leatherworking
+
+#### Suggested Uses
+
+### Cooking
+
+#### Suggested Uses
+
+### Gardening
+
+#### Suggested Uses
+
+### Herbalism
+
+#### Suggested Uses
+
+### Painting
+
+#### Suggested Uses
+
+### Calligraphy
+
+#### Suggested Uses
+
+### Makeup
+
+#### Suggested Uses
+
+### Smithing
+
+#### Suggested Uses
+
+### Carpentry
+
+#### Suggested Uses
+
+### Masonry
+
+#### Suggested Uses
+
+### Pottery
+
+#### Suggested Uses
+
+### Glassblowing
+
+#### Suggested Uses
+
+### Cartography
+
+#### Suggested Uses
+
+### Cryptography
+
+#### Suggested Uses
+
+### Forensics
+
+#### Suggested Uses
