@@ -1,4 +1,4 @@
-# 1: How to Play
+# How to Play
 
 ## Basics
 

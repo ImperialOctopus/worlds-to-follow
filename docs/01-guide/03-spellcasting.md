@@ -1,4 +1,4 @@
-# Spells
+# Spellcasting
 
 ## Spell Descriptions
 
