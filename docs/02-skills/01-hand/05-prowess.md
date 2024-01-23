@@ -45,7 +45,7 @@ When you hit with a melee attack, you may forego damage to either:
 
 ### 5: Martial Path
 
-:::note Choose a Path
+:::danger Choose a Path
 
 When you reach 5 Prowess, choose a path:
 

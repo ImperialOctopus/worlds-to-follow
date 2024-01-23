@@ -43,7 +43,7 @@ Gain proficiency in two extra Artistries. Learn two basic languages.
 
 ### 7: Artistic Path
 
-:::note Choose a Path
+:::danger Choose a Path
 
 When you reach 7 Expression, choose an ability:
 

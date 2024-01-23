@@ -33,7 +33,7 @@ You can have one more active Trace.
 
 ### 7: Path
 
-:::note Choose a Path
+:::danger Choose a Path
 
 When you reach 5 Depths, choose a path:
 

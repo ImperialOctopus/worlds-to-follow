@@ -24,7 +24,7 @@ You sense the presence of Outsiders within the affected area, even through walls
 
 ### 5: Outside Path
 
-:::note Choose a Path
+:::danger Choose a Path
 
 When you reach 5 Spirituality, choose a path:
 
