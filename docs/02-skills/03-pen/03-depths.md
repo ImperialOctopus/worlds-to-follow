@@ -10,9 +10,7 @@ Those skilled in Depths:
 - Are emotionally stable.
 - Create the most powerful spells.
 
-## Skill Abilities
-
-### 3: Detect Magic
+## 3: Detect Magic
 
 <AbilityCard
 speed="action"
@@ -22,7 +20,7 @@ parameters={["Speed: Action", "Range: 5 m.", "Target: Objects or Creatures (Any
 You detect magical traces on any objects or creatures you can see within 5 m. You can tell the Art, and how long ago the spell was cast (up to 48 h).
 </AbilityCard>
 
-### 5: Engram Recruitment
+## 5: Engram Recruitment
 
 <AbilityCard
 speed="enhancement"
@@ -31,7 +29,7 @@ subtitle="Enhancement">
 You can have one more active Trace.
 </AbilityCard>
 
-### 7: Path
+## 7: Path
 
 :::danger Choose a Path
 
@@ -44,9 +42,9 @@ You gain different skill abilities depending on your path.
 
 :::
 
-### Open Heart
+## Open Book
 
-#### 7: Split Mind
+### 7: Split Mind
 
 <AbilityCard
 speed="enhancement"
@@ -55,7 +53,7 @@ subtitle="Enhancement">
 You can concentrate on one extra thing in addition to your normal concentration.
 </AbilityCard>
 
-#### 9: Cosmosphere
+### 9: Cosmosphere
 
 <AbilityCard
 speed="enhancement"
@@ -64,9 +62,9 @@ subtitle="Enhancement">
 Create your own spell. It may be a variation of an effect you can already produce with magic, or an entirely original spell. Consult your Arbiter for advice.
 </AbilityCard>
 
-### Thorny Thoughts
+## Thorny Thoughts
 
-#### 7: White-Wall Wizard
+### 7: White-Wall Wizard
 
 <AbilityCard
 speed="enhancement"
@@ -75,7 +73,7 @@ subtitle="Enhancement">
 When you roll Composure to maintain concentration, gain an edge on the roll.
 </AbilityCard>
 
-#### 9: Veil Wall
+### 9: Veil Wall
 
 <AbilityCard
 speed="reaction"

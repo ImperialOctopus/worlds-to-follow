@@ -10,9 +10,7 @@ Those skilled in Elegance:
 - Conduct themselves with grace.
 - Are masters of dance and acrobatics.
 
-## Skill Abilities
-
-### 3: Foil
+## 3: Foil
 
 <AbilityCard
 speed="enhancement"
@@ -21,7 +19,7 @@ subtitle="Enhancement">
 When you roll Prowess to make or avoid a melee attack, you can roll Elegance instead.
 </AbilityCard>
 
-### 5: Blade Dance
+## 5: Blade Dance
 
 <AbilityCard
 speed="enhancement"
@@ -30,7 +28,7 @@ subtitle="Enhancement">
 When you use Throw Weapon, you can use Elegance for the roll. Add 2 to your roll.
 </AbilityCard>
 
-### 7: Nine Lives
+## 7: Nine Lives
 
 <AbilityCard
 speed="enhancement"
@@ -39,7 +37,7 @@ subtitle="Enhancement">
 You do not take fall damage. You can climb.
 </AbilityCard>
 
-### 9: Metamorphosis
+## 9: Metamorphosis
 
 <AbilityCard
 speed="enhancement"

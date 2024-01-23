@@ -11,9 +11,7 @@ Those skilled in World:
 - Traverse rough terrain.
 - Avoid being ambushed or followed.
 
-## Skill Abilities
-
-### 1: Size Up
+## 1: Size Up
 
 <AbilityCard
 speed="action"
@@ -23,7 +21,7 @@ parameters={["Speed: Action.", "Range: 20 m.", "Target: Creature."]}>
 Target a creature you can see within range and choose a skill. Roll World vs. Discretion. The winner learns the loser's score in the chosen skill.
 </AbilityCard>
 
-### 3: Cold Eyes, Quick Feet
+## 3: Cold Eyes, Quick Feet
 
 <AbilityCard
 speed="enhancement"
@@ -32,7 +30,7 @@ subtitle="Enhancement">
 When you roll Initiative, or roll to avoid a trap or ambush, gain an edge on the roll.
 </AbilityCard>
 
-### 5: Leap of Faith
+## 5: Leap of Faith
 
 <AbilityCard
 speed="enhancement"
@@ -41,7 +39,7 @@ subtitle="Enhancement">
 Your speed increases by 3m. You can climb.
 </AbilityCard>
 
-### 7: Home Anywhere
+## 7: Home Anywhere
 
 <AbilityCard
 speed="enhancement"
@@ -50,7 +48,7 @@ subtitle="Enhancement">
 You cannot become lost. You cannot be ambushed, and you gain an edge on rolls to avoid being tracked.
 </AbilityCard>
 
-### 9: Spirit of a Thousand Steps
+## 9: Spirit of a Thousand Steps
 
 <AbilityCard
 speed="enhancement"

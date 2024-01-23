@@ -10,9 +10,7 @@ Those skilled in Spirituality:
 - Commune with powerful Outsiders.
 - Know about religious and spiritual practices.
 
-## Skill Abilities
-
-### 3: Divine Sense
+## 3: Divine Sense
 
 <AbilityCard
 speed="action"
@@ -22,7 +20,7 @@ parameters={["Speed: Action.", "Range: Self.", "Area: Sphere (15 m).", "Target: 
 You sense the presence of Outsiders within the affected area, even through walls. You learn their precise locations and origins.
 </AbilityCard>
 
-### 5: Outside Path
+## 5: Outside Path
 
 :::danger Choose a Path
 
@@ -35,9 +33,9 @@ You gain different skill abilities depending on your path.
 
 :::
 
-### Faerie Fascination
+## Faerie Fascination
 
-#### 5: Starlight Eyes
+### 5: Starlight Eyes
 
 <AbilityCard
 speed="enhancement"
@@ -46,7 +44,7 @@ subtitle="Enhancement">
 You can see in the dark. You can choose to emit light that reaches up to 10m. If you have a view of the sky, add 2 to your Spirituality rolls.
 </AbilityCard>
 
-#### 7: Faerie Blood
+### 7: Faerie Blood
 
 <AbilityCard
 speed="enhancement"
@@ -55,7 +53,7 @@ subtitle="Enhancement">
 You can fly. When you roll to resist the effects of Distortion and Control spells, you can roll Spirituality instead. You count as an Outsider (Faerie).
 </AbilityCard>
 
-#### 9: Glamour
+### 9: Glamour
 
 <AbilityCard
 speed="enhancement"
@@ -64,9 +62,9 @@ subtitle="Enhancement">
 You learn the magical Art Distortion, which doesn't count towards your maximum number of arcane Arts. When your Distortion spells, spell enhancements, or skill requirements use a skill of yours, you can use Spirituality instead. Magic cannot dispel or see through your Distortion spells. If metallic iron touches any of your illusions, they are dispelled.
 </AbilityCard>
 
-### Creature of Otherwhere
+## Creature of Otherwhere
 
-#### 5: Omen
+### 5: Omen
 
 <AbilityCard
 speed="enhancement"
@@ -75,7 +73,7 @@ subtitle="Enhancement">
 When you rest, roll 2d6 and record the outcome as an omen. When you make a roll, or another creature makes a roll against you, you can choose to replace the result of the dice roll with your omen. Choose before the dice are rolled, and add any skills and bonuses as normal. Once used, the omen is lost.
 </AbilityCard>
 
-#### 7: Touch of Otherwhere
+### 7: Touch of Otherwhere
 
 <AbilityCard
 speed="enhancement"
@@ -84,7 +82,7 @@ subtitle="Enhancement">
 You learn the magical Art Transposition. When your Transposition spells, spell enhancements, or skill requirements use a skill of yours, you can use Spirituality instead. You count as an Outsider (Otherwhere).
 </AbilityCard>
 
-#### 9: Inversion Space
+### 9: Inversion Space
 
 <AbilityCard
 speed="action"

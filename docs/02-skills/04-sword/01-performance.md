@@ -10,9 +10,7 @@ Those skilled in Performance:
 - See the hidden meaning in others' music.
 - Take on fake identities, and portay them convincingly.
 
-## Skill Abilities
-
-### 3: Instrumental
+## 3: Instrumental
 
 Instrumental
 
@@ -23,7 +21,7 @@ subtitle="Enhancement">
 You learn how to play a musical instrument of your choice. You learn one additional instrument for every point in Performance above 3.
 </AbilityCard>
 
-### 5: Shared Imagination
+## 5: Shared Imagination
 
 <AbilityCard
 speed="action"
@@ -33,7 +31,7 @@ parameters={["Speed: Action.", "Range: Self.", "Area: Sphere (10 m).", "Target: 
 Allies within 10m of you who can hear you gain an edge on rolls made on defence against Action spells.
 </AbilityCard>
 
-### 7: Improviser
+## 7: Improviser
 
 <AbilityCard
 speed="enhancement"
@@ -42,7 +40,7 @@ subtitle="Enhancement">
 Whenever you roll a skill that you have 4 or less points in, gain an edge on the roll.
 </AbilityCard>
 
-### 9: Anything is Possible
+## 9: Anything is Possible
 
 <AbilityCard
 speed="action"

@@ -10,9 +10,7 @@ Those skilled in Medicine:
 - Understand drugs and medical treatments.
 - Have knowledge of human anatomy.
 
-## Skill Abilities
-
-### 1: First Aid
+## 1: First Aid
 
 <AbilityCard
 speed="ritual"
@@ -22,7 +20,7 @@ parameters={["Speed: Ritual", "Range: Touch", "Target: Creature"]}>
 Affect a helpless creature you can reach. They are no longer helpless.
 </AbilityCard>
 
-### 3: Battlefield Medicine
+## 3: Battlefield Medicine
 
 <AbilityCard
 speed="action"
@@ -32,7 +30,7 @@ parameters={["Speed: Action", "Range: Touch", "Target: Creature"]}>
 Affect a helpless creature you can reach. Roll Medicine vs. 12. On a success, they are no longer helpless.
 </AbilityCard>
 
-### 5: Survivor
+## 5: Survivor
 
 <AbilityCard
 speed="enhancement"
@@ -41,7 +39,7 @@ subtitle="Enhancement">
 While helpless, you may still take one Action per turn to use Battlefield Medicine. If you target yourself, the Medicine roll difficulty is 15.
 </AbilityCard>
 
-### 7: Bio-Shock
+## 7: Bio-Shock
 
 <AbilityCard
 speed="action"
@@ -50,7 +48,7 @@ subtitle="Magical ability">
 Target a helpless creature you can reach. You either leave them unconscious but alive, or kill them (your choice). Gain 2 Endurance, or, if a willing creature is within your reach, cause them to gain 2 Endurance.
 </AbilityCard>
 
-### 9: Heal Thyself
+## 9: Heal Thyself
 
 <AbilityCard
 speed="ritual"

@@ -10,9 +10,7 @@ Those skilled in Awareness:
 - Find hidden objects.
 - Notice threats faster, and act first.
 
-## Skill Abilities
-
-### 3: Target Tracking
+## 3: Target Tracking
 
 <AbilityCard
 speed="enhancement"
@@ -21,7 +19,7 @@ subtitle="Enhancement">
 Your melee attacks can target creatures you cannot see. If you do, use the lower of Awareness and the original skill for the roll.
 </AbilityCard>
 
-### 5: Prey Instinct
+## 5: Prey Instinct
 
 <AbilityCard
 speed="enhancement"
@@ -30,7 +28,7 @@ subtitle="Enhancement">
 Add 1 to your rolls made on defence against Attacks.
 </AbilityCard>
 
-### 7: Exterospection
+## 7: Exterospection
 
 <AbilityCard
 speed="enhancement"
@@ -39,7 +37,7 @@ subtitle="Enhancement">
 When you are targeted by a spell, you are aware of the identity and location of the caster. You also gain an edge on all Depths rolls you make.
 </AbilityCard>
 
-### 9: Third Eye, Fourth Eye
+## 9: Third Eye, Fourth Eye
 
 <AbilityCard
 speed="enhancement"

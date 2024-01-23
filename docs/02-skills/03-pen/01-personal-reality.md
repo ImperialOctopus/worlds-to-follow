@@ -10,9 +10,7 @@ Those skilled in Personal Reality:
 - Do strange, new things with their spells.
 - Make wishes that come true.
 
-## Skill Abilities
-
-### 3: Metamagic
+## 3: Metamagic
 
 <AbilityCard
 speed="enhancement"
@@ -21,7 +19,7 @@ subtitle="Enhancement">
 Learn one Metamagic of your choice. You learn one more when you reach 5, 7, and 9 in Personal Reality.
 </AbilityCard>
 
-### 5: Overwhelm
+## 5: Overwhelm
 
 <AbilityCard
 speed="enhancement"
@@ -30,7 +28,7 @@ subtitle="Enhancement">
 When you cause another creature to make a Composure roll to maintain concentration, they make it against your Personal Reality.
 </AbilityCard>
 
-### 7: Disruption Field
+## 7: Disruption Field
 
 <AbilityCard
 speed="ritual"
@@ -40,7 +38,7 @@ parameters={["Speed: Ritual."]}>
 Choose a magical Art. Spells of that Art cannot affect you (even helpful ones). This lasts until you use this again, or until you rest.
 </AbilityCard>
 
-### 9: World-Weaver
+## 9: World-Weaver
 
 <AbilityCard
 speed="enhancement"

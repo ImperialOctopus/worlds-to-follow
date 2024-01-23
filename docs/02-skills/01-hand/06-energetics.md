@@ -11,9 +11,7 @@ Those skilled in Energetics:
 - Use stronger elemental magic.
 - Survive lightning strikes.
 
-## Skill Abilities
-
-### 3: Adrenal Protocol
+## 3: Adrenal Protocol
 
 <AbilityCard
 speed="action"
@@ -22,7 +20,7 @@ subtitle="Mundane ability">
 Spend all your mana. Your next roll in a Hand skill this turn has +X/3.
 </AbilityCard>
 
-### 5: Trace Vital Organs
+## 5: Trace Vital Organs
 
 <AbilityCard
 speed="action"
@@ -31,7 +29,7 @@ subtitle="Magical ability">
 Gain extra mana equal to your Energetics. At the start of your next turn, your Endurance falls to 1 and you fall unconscious.
 </AbilityCard>
 
-### 7: Protection Subroutine
+## 7: Protection Subroutine
 
 <AbilityCard
 speed="enhancement"
@@ -40,7 +38,7 @@ subtitle="Enhancement">
 When you roll a Hand skill on defence, add 1 for each active Trace you have.
 </AbilityCard>
 
-### 9: Regenerative Recoil
+## 9: Regenerative Recoil
 
 <AbilityCard
 speed="enhancement"

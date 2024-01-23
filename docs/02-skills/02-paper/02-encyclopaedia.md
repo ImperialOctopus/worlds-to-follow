@@ -10,9 +10,7 @@ Those skilled in Encyclopaedia:
 - Study hard.
 - Remember everything they've seen.
 
-## Skill Abilities
-
-### 1: Linguistics
+## 1: Linguistics
 
 <AbilityCard
 speed="enhancement"
@@ -21,7 +19,7 @@ subtitle="Enhancement">
 You learn one common language of your choice for each point you have in Encyclopaedia. If your Encyclopaedia is 5 or higher, you may learn specialist languages.
 </AbilityCard>
 
-### 3: Fascination
+## 3: Fascination
 
 <AbilityCard
 speed="enhancement"
@@ -30,7 +28,7 @@ subtitle="Enhancement">
 Choose a topic. When you roll Encyclopaedia regarding that topic, your total cannot be lower than twice your score in Encyclopaedia.
 </AbilityCard>
 
-### 5: Wide Roots
+## 5: Wide Roots
 
 <AbilityCard
 speed="enhancement"
@@ -39,7 +37,7 @@ subtitle="Enhancement">
 When you fail any roll, you may learn the location of information that could help you (at the arbiter's discretion).
 </AbilityCard>
 
-### 7: General Knowledge
+## 7: General Knowledge
 
 <AbilityCard
 speed="enhancement"
@@ -48,7 +46,7 @@ subtitle="Enhancement">
 You gain an edge on all Encyclopaedia rolls.
 </AbilityCard>
 
-### 9: Bellwether
+## 9: Bellwether
 
 <AbilityCard
 speed="enhancement"

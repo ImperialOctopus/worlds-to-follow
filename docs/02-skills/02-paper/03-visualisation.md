@@ -10,9 +10,7 @@ Those skilled in Visualisation:
 - Reconstruct crime scenes.
 - Use Transposition magic accurately.
 
-## Skill Abilities
-
-### 3: Mental Model
+## 3: Mental Model
 
 <AbilityCard
 speed="enhancement"
@@ -21,7 +19,7 @@ subtitle="Enhancement">
 When you roll Reflexes to avoid a ranged Attack, you may roll Visualisation instead.
 </AbilityCard>
 
-### 5: Precomputed Trajectory
+## 5: Precomputed Trajectory
 
 <AbilityCard
 speed="action"
@@ -30,7 +28,7 @@ subtitle="Mundane ability">
 Gain an edge on your next ranged Attack roll this turn.
 </AbilityCard>
 
-### 7: Blind Fire
+## 7: Blind Fire
 
 <AbilityCard
 speed="enhancement"
@@ -39,7 +37,7 @@ subtitle="Enhancement">
 Your spells can target creatures without line of sight, so long as they are in range and you are aware of them.
 </AbilityCard>
 
-### 9: Thought-Form
+## 9: Thought-Form
 
 <AbilityCard
 speed="enhancement"

@@ -10,9 +10,7 @@ Those skilled in Precision:
 - Pick locks well.
 - Throw knives on target.
 
-## Skill Abilities
-
-### 1: Fire
+## 1: Fire
 
 <AbilityCard
 speed="attack"
@@ -22,7 +20,7 @@ parameters={["Speed: Attack.", "Range: 20 m.", "Target: Creature or Object."]}>
 Attack with Precision vs. Reflexes.
 </AbilityCard>
 
-### 3: Throw Weapon
+## 3: Throw Weapon
 
 <AbilityCard
 speed="attack"
@@ -32,7 +30,7 @@ parameters={["Speed: Attack.", "Range: 10 m.", "Target: Creature or Object."]}>
 Attack with Prowess or Precision vs. Reflexes.
 </AbilityCard>
 
-### 5: Called Shot
+## 5: Called Shot
 
 <AbilityCard
 speed="enhancement"
@@ -41,7 +39,7 @@ subtitle="Enhancement">
 When you attack with a mundane ability, you may take a -5 penalty to the roll to increase the damage it does by 1.
 </AbilityCard>
 
-### 7: Rifled Reflexes
+## 7: Rifled Reflexes
 
 <AbilityCard
 speed="enhancement"
@@ -50,7 +48,7 @@ subtitle="Enhancement">
 Gain an edge on all Precision rolls.
 </AbilityCard>
 
-### 9: Hypercartesian
+## 9: Hypercartesian
 
 <AbilityCard
 speed="enhancement"

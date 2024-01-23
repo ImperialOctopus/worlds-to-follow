@@ -10,9 +10,7 @@ Those skilled in Discretion:
 - Are not overheard.
 - Know when not to speak, or act.
 
-## Skill Abilities
-
-### 1: Hide
+## 1: Hide
 
 <AbilityCard
 speed="action"
@@ -22,7 +20,7 @@ parameters={["Speed: Action."]}>
 You hide from creatures that are aware of you but aren't able to see you (or detect you with another sense). Roll Discretion vs. Awareness for all of them. Creatures that fail stop being aware of your location.
 </AbilityCard>
 
-### 3: Steganography
+## 3: Steganography
 
 <AbilityCard
 speed="ritual"
@@ -32,7 +30,7 @@ parameters={["Speed: Ritual."]}>
 You hide a secret message within another, innocuous, message. Only creatures with a Discretion higher than yours notice its presence, unless they are told that a hidden message is present. Anyone who knows the message is there may roll Discretion vs. yours to decipher it. You may share your techniques with other creatures, allowing them to decipher your messages without rolling.
 </AbilityCard>
 
-### 5: Frightening Efficiency
+## 5: Frightening Efficiency
 
 <AbilityCard
 speed="enhancement"
@@ -41,7 +39,7 @@ subtitle="Enhancement">
 If you act first in the first round of combat, your first attack that turn deals 2 extra damage.
 </AbilityCard>
 
-### 7: Chameleon
+## 7: Chameleon
 
 <AbilityCard
 speed="reaction"
@@ -51,7 +49,7 @@ parameter={["Speed: Reaction.", "Range: 5 m.", "Target: Creature."]}>
 Reaction when you are targeted by an ability or spell. Change its target to the affected creature.
 </AbilityCard>
 
-### 9: Bones of Fiction
+## 9: Bones of Fiction
 
 <AbilityCard
 speed="enhancement"

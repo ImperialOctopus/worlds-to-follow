@@ -10,9 +10,7 @@ Those skilled in Endurance:
 - Walk through fire and lightning.
 - Hike long distances with a lot of supplies.
 
-## Skill Abilities
-
-### 3: Sprint
+## 3: Sprint
 
 <AbilityCard
 speed="action"
@@ -22,7 +20,7 @@ parameters={["Speed: Action."]}>
 Increase your speed by your Endurance × 1 m until the end of your turn.
 </AbilityCard>
 
-### 5: Pain Tolerance
+## 5: Pain Tolerance
 
 <AbilityCard
 speed="enhancement"
@@ -31,7 +29,7 @@ subtitle="Enhancement">
 You can have one more active Trace. Gaining Traces no longer leaves you helpless.
 </AbilityCard>
 
-### 7: Overclock
+## 7: Overclock
 
 <AbilityCard
 speed="ritual"
@@ -41,7 +39,7 @@ parameters={["Speed: Ritual."]}>
 Lose 1 Endurance. Gain 1 Energetics.
 </AbilityCard>
 
-### 9: I Will Not Falter
+## 9: I Will Not Falter
 
 <AbilityCard
 speed="reaction"

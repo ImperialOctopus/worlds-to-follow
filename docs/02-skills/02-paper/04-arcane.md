@@ -10,9 +10,7 @@ Those skilled in Arcane:
 - Recognise spells being cast.
 - Identify the properties of enchanted items.
 
-## Skill Abilities
-
-### 1: The Arts
+## 1: The Arts
 
 <AbilityCard
 speed="enhancement"
@@ -21,7 +19,7 @@ subtitle="Enhancement">
 You learn one magical Art of your choice. You learn an extra magical Art when you reach 3, 5, 7, and 9 in Arcane.
 </AbilityCard>
 
-### 3: Circle Magic
+## 3: Circle Magic
 
 <AbilityCard
 speed="ritual"
@@ -31,7 +29,7 @@ parameters={["Speed: Ritual.", "Concentration."]}>
 Cast a circle magic spell, or assist in the casting of one performed by an ally.
 </AbilityCard>
 
-### 5: Magical Secrets
+## 5: Magical Secrets
 
 <AbilityCard
 speed="enhancement"
@@ -40,7 +38,7 @@ subtitle="Enhancement">
 Choose one of your Arts. You may use your score in Arcane for any skill prerequisites in that Art. When you reach 7 in Arcane, you may change Art.
 </AbilityCard>
 
-### 7: Arcanoptimisation
+## 7: Arcanoptimisation
 
 <AbilityCard
 speed="enhancement"
@@ -49,7 +47,7 @@ subtitle="Enhancement">
 When you pay more than zero mana to cast a variable cost spell, X for that spell is increased by 2.
 </AbilityCard>
 
-### 9: Paradigm Shift
+## 9: Paradigm Shift
 
 <AbilityCard
 speed="ritual"

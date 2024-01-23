@@ -12,8 +12,6 @@ Those skilled in Expression:
 
 This skill allows you to gain proficiency in Artistries. See the page on [Artistry](/artistry) for a list of options and further information.
 
-## Skill Abilities
-
 ### 1: Artistry
 
 <AbilityCard
@@ -32,7 +30,7 @@ subtitle="Enhancement">
 Gain proficiency in one extra Artistry.
 </AbilityCard>
 
-### 5: Polymath
+## 5: Polymath
 
 <AbilityCard
 speed="enhancement"
@@ -41,7 +39,7 @@ subtitle="Enhancement">
 Gain proficiency in two extra Artistries. Learn two basic languages.
 </AbilityCard>
 
-### 7: Artistic Path
+## 7: Artistic Path
 
 :::danger Choose a Path
 
@@ -52,7 +50,7 @@ When you reach 7 Expression, choose an ability:
 
 :::
 
-#### 7: Renaissance Man
+### 7: Renaissance Man
 
 <AbilityCard
 speed="enhancement"
@@ -61,7 +59,7 @@ subtitle="Enhancement">
 You gain proficiency in all Artistries.
 </AbilityCard>
 
-#### 7: Creative Master
+### 7: Creative Master
 
 <AbilityCard
 speed="enhancement"
@@ -70,7 +68,7 @@ subtitle="Enhancement">
 When you roll a skill for an Artistry that you're proficient with, double your skill bonus.
 </AbilityCard>
 
-### 9: Original Thought
+## 9: Original Thought
 
 <AbilityCard
 speed="enhancement"

@@ -10,9 +10,7 @@ Those skilled in Intrigue:
 - Recall political history.
 - Are comfortable interacting with the powerful.
 
-## Skill Abilities
-
-### 3: Silver Tongue
+## 3: Silver Tongue
 
 <AbilityCard
 speed="enhancement"
@@ -21,7 +19,7 @@ subtitle="Enhancement">
 When you fail a roll to interact socially with another creature outside of combat, you can lose 1 Intrigue to reroll.
 </AbilityCard>
 
-### 5: Chameleon of Repute
+## 5: Chameleon of Repute
 
 <AbilityCard
 speed="enhancement"
@@ -30,7 +28,7 @@ subtitle="Enhancement">
 With a day's work you can establish yourself as a legitimate member of any large organisation operating in your area.
 </AbilityCard>
 
-### 7: Statecraft
+## 7: Statecraft
 
 <AbilityCard
 speed="enhancement"
@@ -39,7 +37,7 @@ subtitle="Enhancement">
 When a creature makes a promise to you, you can tell if they are lying. When a creature threatens you, you can tell if they intend to follow through.
 </AbilityCard>
 
-### 9: Kingmaker
+## 9: Kingmaker
 
 <AbilityCard
 speed="reaction"

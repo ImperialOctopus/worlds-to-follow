@@ -10,9 +10,7 @@ Those skilled in Composure:
 - Avoid falling for goads or taunts.
 - Don't show pain.
 
-## Skill Abilities
-
-### 3: Focus Through Pain
+## 3: Focus Through Pain
 
 <AbilityCard
 speed="reaction"
@@ -22,7 +20,7 @@ parameters={["Speed: Reaction."]}>
 Reaction when you fail a Composure roll. Take one damage and re-roll. (This damage cannot cause you to lose concentration.)
 </AbilityCard>
 
-### 5: Court Manners
+## 5: Court Manners
 
 <AbilityCard
 speed="enhancement"
@@ -31,7 +29,7 @@ subtitle="Enhancement">
 When you roll Composure for any reason except maintaining concentration, gain an edge on the roll.
 </AbilityCard>
 
-### 7: Thought Cipher
+## 7: Thought Cipher
 
 <AbilityCard
 speed="enhancement"
@@ -40,7 +38,7 @@ subtitle="Enhancement">
 When you roll defence against a Spellbreak spell, gain an edge on the roll.
 </AbilityCard>
 
-### 9: Eye of the Storm
+## 9: Eye of the Storm
 
 <AbilityCard
 speed="action"

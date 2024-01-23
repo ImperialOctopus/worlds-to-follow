@@ -10,9 +10,7 @@ Those skilled in Prowess:
 - Run faster.
 - Win arm wrestling contests.
 
-## Skill Abilities
-
-### 1: Swordskill
+## 1: Swordskill
 
 <AbilityCard
 speed="attack"
@@ -28,7 +26,7 @@ title="Logo Title Text 1"
 Attack with Prowess.
 </AbilityCard>
 
-### 3: Supremacy
+## 3: Supremacy
 
 <AbilityCard
 speed="enhancement"
@@ -43,7 +41,7 @@ When you hit with a melee attack, you may forego damage to either:
 </ul>
 </AbilityCard>
 
-### 5: Martial Path
+## 5: Martial Path
 
 :::danger Choose a Path
 
@@ -56,9 +54,9 @@ You gain different skill abilities depending on your path.
 
 :::
 
-### Duelist
+## Duelist
 
-#### 5: Surrender Initiative
+### 5: Surrender Initiative
 
 <AbilityCard
 speed="action"
@@ -68,7 +66,7 @@ parameters={["Speed: Action."]}>
 Lose 2 Prowess. Restore 1 lost Endurance.
 </AbilityCard>
 
-#### 7: Crimson Will
+### 7: Crimson Will
 
 <AbilityCard
 speed="reaction"
@@ -77,9 +75,9 @@ subtitle="Mundane ability">
 Reaction when you fail a Prowess roll. Gain 1 Prowess.
 </AbilityCard>
 
-### Arcaknight
+## Arcaknight
 
-#### 5: Spellkiller
+### 5: Spellkiller
 
 <AbilityCard
 speed="enhancement"
@@ -88,7 +86,7 @@ subtitle="Enhancement">
 When someone rolls Composure to maintain concentration because of damage you caused, they roll vs. your Prowess.
 </AbilityCard>
 
-#### 7: Trace Scars
+### 7: Trace Scars
 
 <AbilityCard
 speed="enhancement"
@@ -97,7 +95,7 @@ subtitle="Enhancement">
 You can have one more active Trace. You can defend against attempts to remove your Traces with Prowess.
 </AbilityCard>
 
-### 9: Wind-Borne Blade
+## 9: Wind-Borne Blade
 
 <AbilityCard
 speed="enhancement"

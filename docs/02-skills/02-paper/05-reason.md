@@ -10,9 +10,7 @@ Those skilled in Reason:
 - Figure things out.
 - Destroy people in abstract arguments.
 
-## Skill Abilities
-
-### 3: Book Opening
+## 3: Book Opening
 
 <AbilityCard
 speed="enhancement"
@@ -21,7 +19,7 @@ subtitle="Enhancement">
 Add 2 to your Initiative rolls. When you roll Awareness for Initiative, you may roll Reason instead.
 </AbilityCard>
 
-### 5: Lightbulb Contribution
+## 5: Lightbulb Contribution
 
 <AbilityCard
 speed="reaction"
@@ -31,7 +29,7 @@ parameters={["Speed: Reaction.", "Range: 20 m.", "Target: Creature."]}>
 Reaction when you or an ally within range rolls a Paper skill. Add your Reason to their roll, then lose 1 Reason.
 </AbilityCard>
 
-### 7: Analytical Engine
+## 7: Analytical Engine
 
 <AbilityCard
 speed="action"
@@ -40,7 +38,7 @@ subtitle="Mundane ability">
 You instantaneously mentally solve any logical or mathematical problem that could be solved with paper and a calculator.
 </AbilityCard>
 
-### 9: Never Second Best
+## 9: Never Second Best
 
 <AbilityCard
 speed="enhancement"

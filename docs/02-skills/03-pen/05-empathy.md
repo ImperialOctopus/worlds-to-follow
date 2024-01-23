@@ -10,9 +10,7 @@ Those skilled in Empathy:
 - Put themselves in harm's way to protect their allies.
 - Understand and handle animals well.
 
-## Skill Abilities
-
-### 3: Shelter
+## 3: Shelter
 
 <AbilityCard
 speed="action"
@@ -22,7 +20,7 @@ parameters={["Speed: Action.", "Range: 6 m.", "Target: Creature.", "Concentratio
 When the affected creature would be targeted by spells, the spells target you instead (regardless of range).
 </AbilityCard>
 
-### 5: Sanctuary
+## 5: Sanctuary
 
 <AbilityCard
 speed="action"
@@ -32,7 +30,7 @@ parameters={["Speed: Action.", "Range: Self.", "Area: Sphere (4 m).", "Target: C
 Cannot target yourself. Affected creatures can use your Depths in place of any skill that they roll defence in.
 </AbilityCard>
 
-### 7: Synchronisation
+## 7: Synchronisation
 
 <AbilityCard
 speed="action"
@@ -42,7 +40,7 @@ parameters={["Speed: Action.", "Range: Touch.", "Target: Creature."]}>
 Affected creature can use your skills in place of theirs until the start of your next turn.
 </AbilityCard>
 
-### 9: Forsaken Heart
+## 9: Forsaken Heart
 
 <AbilityCard
 speed="action"
