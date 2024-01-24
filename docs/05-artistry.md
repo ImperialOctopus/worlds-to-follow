@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a list of _suggested_ artistries. Artistries will depend on your setting, representing fields of art and craft available to study in that setting. For example, characters in a setting which hasn't invented metalworking won't be able to learn Smithing.
+This is a list of _suggested_ Artistries. Artistries will depend on your setting, representing fields of art and craft available to study in that setting. For example, characters in a setting which hasn't invented metalworking won't be able to learn Smithing.
 
 :::info Advice
 
@@ -16,85 +16,84 @@ When you try and do something covered by an Artistry you're proficient with, mos
 
 When you're applying your Artistry to new situations, however, skill rolls will generally be called for. Do not feel limited to using only Expression for these. Your Artistry proficiency _allows you to try_, but your scores in skills relevant to _how you're trying_ are important for success.
 
+:::note Summary
+
+- Doing normal things with your Artistry doesn't require a roll.
+- Applying your Artistry to unusual situations allows you to roll for better outcomes.
+
+:::
+
 As Arbiter, if you think a character's Artistry proficiency is helpful to something they're doing, you should either reduce the roll's difficulty or provide some other benefit to using the Artistry (e.g. more information than they could have gotten with the skill roll alone).
 
 For example, a character with proficiency in Jewellery examining a lump of amber would trivially notice details in its appearance that an untrained character may only see with a very high Precision roll; instead, you might ask for an Arcane roll for them to notice signs of a hidden magical _trace_. A chararacter using their Leatherworking proficiency to improvise restraints for an apprehended suspect may only have to roll World vs. 9, rather than World vs. 15.
 
-## Suggested Artistries
+## Artistries List
+
+Each Artistry in this list includes both a list of normal things that could be done with it (i.e. without rolling), and some suggestions for unusual situations to apply the proficiency to.
 
 ### Creative Writing
 
 Put pen to paper and come up with something new. Or just recycle things you like from books you've read; I won't judge.
 
-#### Suggested Uses
+Normal:
 
-- Fabricating a believable fake identity.
-- Recognising a particularly cliché murder method.
+- Novelise your adventures.
+- Write a children's book.
+
+Unusual:
+
+- Fabricate a believable fake identity.
+- Recognise a particularly cliché murder method.
 
 ### Textiles
 
-#### Suggested Uses
+Normal:
+
+- Repair everyday damage to an item of clothing.
+- Create a beautiful ballgown.
+
+Unusual:
+
+- Sew six bedsheets together into a parachute.
 
 ### Jewellery
 
-#### Suggested Uses
+Normal:
+
+- Appraise the value of gems or precious metals.
+- Forge bespoke wedding rings.
+
+Unusual:
+
+- Recognise a specific gem with political importance.
+-
 
 ### Leatherworking
 
-#### Suggested Uses
-
 ### Cooking
-
-#### Suggested Uses
 
 ### Gardening
 
-#### Suggested Uses
-
 ### Herbalism
-
-#### Suggested Uses
 
 ### Painting
 
-#### Suggested Uses
-
 ### Calligraphy
-
-#### Suggested Uses
 
 ### Makeup
 
-#### Suggested Uses
-
 ### Smithing
-
-#### Suggested Uses
 
 ### Carpentry
 
-#### Suggested Uses
-
 ### Masonry
-
-#### Suggested Uses
 
 ### Pottery
 
-#### Suggested Uses
-
 ### Glassblowing
-
-#### Suggested Uses
 
 ### Cartography
 
-#### Suggested Uses
-
 ### Cryptography
 
-#### Suggested Uses
-
 ### Forensics
-
-#### Suggested Uses
