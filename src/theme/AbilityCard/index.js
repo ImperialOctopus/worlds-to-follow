@@ -17,7 +17,7 @@ export default function AbilityCard({
 }) {
   return (
     <div class="row">
-      <div class="card-demo col col--6 col--offset-3">
+      <div class="col col--6 col--offset-3">
         <div class="card">
           <div class="card__header">
             <div class="avatar">
@@ -31,8 +31,8 @@ export default function AbilityCard({
               </div>
             </div>
           </div>
-          <div class="card__image">{image != null ? image : null}</div>
-          <div class="card__body">
+          {image != null ? <div class="card__image">{image}</div> : null}
+          <div class="card__body ability_card_body">
             <small>
               {parameters != null ? (
                 <ul class="parameters">

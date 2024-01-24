@@ -11,9 +11,7 @@ Those skilled in Alchemy:
 - Understand medicinal plants and drugs.
 - Know about magic which alters the body.
 
-You can drink potions you're holding as an action on your turn, gaining their effects. You can have the effect of only one potion active on yourself at once; if you drink another potion, you lose the first. You also lose any active potions when you rest.
-Potion effects ONLY affect you while active, and always disappear when they end. For example, a potion which said "Your Endurance is increased by 1" would raise your Endurance by 1 (effectively healing you), but would reduce your Endurance by 1 again when it wore off. If you only had 1 Endurance left, this would leave you helpless.
-See the [Potions](/potions) section of the guide to see a list of potions you can create.
+See the [Potions](/potions) section of the guide to see a list of potions you can create, and for more information about how potion effects work.
 
 ## 1: Administer
 
@@ -32,7 +30,7 @@ speed="ritual"
 title="Potion Engineering"
 subtitle="Mundane ability"
 parameters={["Speed: Ritual."]}>
-Create a potion from your known potion formulae.
+Create a potion from a potion formula you know (with a maximum level of your Alchemy). You learn two sets of potion formulae from the Potion Formulae list, and gain one extra when you reach 5, 7, and 9 Alchemy.
 </AbilityCard>
 
 ## 5: Field Alchemist
@@ -44,11 +42,11 @@ subtitle="Enhancement">
 Your maximum number of active potions increases to two. While you have at least two active potion effects, add 1 to all of your Hand skill rolls.
 </AbilityCard>
 
-## 7: Nigredo
+## 7: Red Work
 
 <AbilityCard
 speed="action"
-title="Nigredo"
+title="Red Work"
 subtitle="Mundane ability"
 parameters={["Speed: Action.", "Concentration"]}>
 You cannot cast spells. Any numerals listed in your potion effects are doubled. When this ends, lose one random active potion.

@@ -10,34 +10,42 @@ export const PotionIcon = ({ strength }) => (
   />
 );
 
-export default function PotionCard({
-  strength,
-  title,
-  image,
-  effect,
-  children,
-}) {
+function getPotionRarity({ strength }) {
+  switch (strength) {
+    case 1:
+      return "Nigredo (1)";
+    case 3:
+      return "Albedo (3)";
+    case 5:
+      return "Citrinitas (5)";
+    case 7:
+      return "Rubedo (7)";
+    case 9:
+      return "Magnum Opus (9)";
+    default:
+      return "Undefined Potion Strength";
+  }
+}
+
+export default function PotionCard({ strength, title, effect, children }) {
   return (
     <div class="row">
-      <div class="card-demo col col--6 col--offset-3">
+      <div class="col col--6 col--offset-3">
         <div class="card">
           <div class="card__header">
             <div class="avatar">
               <PotionIcon strength={strength} />
-
               <div class="avatar__intro">
                 <div class="avatar__name">{title}</div>
                 <small class="avatar__subtitle">
-                  <i>{strength == 0 ? "Free" : strength + " Alchemy"}</i>
+                  <i>{getPotionRarity({ strength })}</i>
                 </small>
               </div>
             </div>
           </div>
-          <div class="card__image">{image != null ? image : null}</div>
           <div class="card__body">
-            <small>Effect: {effect}</small>
-
-            {children}
+            <p class="potion_card_effect">{effect}</p>
+            <small class="potion_card_text">{children}</small>
           </div>
         </div>
       </div>

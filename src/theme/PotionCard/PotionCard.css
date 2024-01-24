@@ -3,12 +3,23 @@ ul.parameters {
   /* margin: 0; */
   padding: 0;
   /* margin-top: var(--ifm-list-margin); */
-
-  li {
-    margin-top: 0px;
-  }
 }
-
+ul.parameters > li {
+  margin-top: 0px;
+}
+/* 
 .card__body {
   padding-top: 0;
+} */
+
+.card {
+  margin-bottom: 0.6rem;
+}
+
+.potion_card_effect {
+  margin-bottom: 0;
+}
+
+.potion_card_text > p {
+  margin-bottom: 0;
 }

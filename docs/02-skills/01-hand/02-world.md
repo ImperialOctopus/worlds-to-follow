@@ -54,5 +54,5 @@ You cannot become lost. You cannot be ambushed, and you gain an edge on rolls to
 speed="enhancement"
 title="Spirit of a Thousand Steps"
 subtitle="Enhancement">
-You no longer need to sleep. You can hide in darkness or dim light, and creatures cannot see you in dim light if they aren't aware of you.
+You no longer need to sleep. You can hide in dim light as if it were darkness, and creatures cannot see you in dim light if they aren't aware of you.
 </AbilityCard>
