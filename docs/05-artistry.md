@@ -47,6 +47,8 @@ Unusual:
 
 ### Textiles
 
+Textiles includes the creation and repair of clothing, as well household fabrics such as bedsheets and tablecloths.
+
 Normal:
 
 - Repair everyday damage to an item of clothing.
@@ -58,6 +60,8 @@ Unusual:
 
 ### Jewellery
 
+Jewellery includes the creation and appraisal of jewellery of all kinds (e.g. precious metals, gemstones, carved bone).
+
 Normal:
 
 - Appraise the value of gems or precious metals.
@@ -66,11 +70,29 @@ Normal:
 Unusual:
 
 - Recognise a specific gem with political importance.
--
+- Notice magically _traced_ jet or amber hidden in an item of jewellery.
 
 ### Leatherworking
 
+Leatherworking concerns the production and work of animal hides (and synthetic analogues, depending on your setting). This field also includes knowledge of shoe-making, even from non-leather materials.
+
+Normal:
+
+- Repair damage to a leather cloak or pair of boots.
+-
+
+Unusual:
+
 ### Cooking
+
+Normal:
+
+- Make a good meal out of common ingredients.
+- Taste and talk about food like a professional.
+
+Unusual:
+
+- Make a strange meal out of strange ingredients.
 
 ### Gardening
 
