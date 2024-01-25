@@ -68,3 +68,12 @@ When you cast an Action-speed spell that targets a single unwilling creature, yo
 title="Ricochet">
 When you cast an Attack spell that targets a single creature and fail to affect them, you may choose a different creature within range and repeat the attack against them (once!).
 </MetamagicCard>
+
+### Split-Cast
+
+<MetamagicCard
+title="Split-Cast"
+type="restricted"
+restriction="Visualisation (4)">
+When you cast a spell that targets creatures within an area (Area: _specified_; Target: Creatures), you may choose to instead target two creatures anywhere within range (give it Area: _Range_; Target: Creatures (2)).
+</MetamagicCard>
