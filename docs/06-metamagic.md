@@ -14,22 +14,57 @@ When you cast a spell, choose any Metamagics that you have to apply to it. They 
 
 ## Metamagic List
 
-###
+### Compiled Activation Sequences
 
 <MetamagicCard
-title="Metamagic">
-Text
-</MetamagicCard>
-
-<MetamagicCard
-title="Metamagic"
+title="Compiled Activation Sequences"
 type="restricted"
-restriction="Alchemy (4)">
-Text
+restriction="Arcane (6)">
+You can cast Ritual-speed spells at Attack speed instead.
 </MetamagicCard>
 
+### Farcaster
+
 <MetamagicCard
-title="Metamagic"
+title="Farcaster"
 type="signature">
-Text
+Your spells have +10 m range.
+</MetamagicCard>
+
+### Hush
+
+<MetamagicCard
+title="Hush">
+Your spellcasting is silent. Anyone observing you cast a spell cannot tell that it was cast by you (unless you wish it).
+</MetamagicCard>
+
+### Merciful Magic
+
+<MetamagicCard
+title="Merciful Magic">
+When you cast a spell that affects creatures within an area, you can choose any creatures to exclude; the spell doesn't affect them, even if they're in the area.
+</MetamagicCard>
+
+### Mirror-Self
+
+<MetamagicCard
+title="Mirror-Self"
+type="signature">
+Your Self-range spells have Touch range instead.
+</MetamagicCard>
+
+### Overwhelm
+
+<MetamagicCard
+title="Overwhelm"
+type="restricted"
+restriction="Presence (6)">
+When you cast an Action-speed spell that targets a single unwilling creature, you can choose to lose 2 Personal Reality to gain an edge on your roll to affect them.
+</MetamagicCard>
+
+### Ricochet
+
+<MetamagicCard
+title="Ricochet">
+When you cast an Attack spell that targets a single creature and fail to affect them, you may choose a different creature within range and repeat the attack against them (once!).
 </MetamagicCard>

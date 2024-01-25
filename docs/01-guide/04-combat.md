@@ -28,11 +28,19 @@ If a creature is helpless, it can't avoid harm any more - if a helpless creature
 - Render the creature unconscious but stable
   Helpless creatures can't resist attacks or spells; this means they are automatically affected by spells without rolling defence, and can be affected by spells which cannot normally affect unwilling targets.
 
+## Awareness
+
 ### Hiding
 
 You can only target creatures or objects that you are aware of (spells that affect an area will still affect things in that area that you aren't aware of). You become aware of any creatures or objects that you can see, and become aware of any creatures that make a sound (e.g. running, casting a spell). The arbiter may ask you to roll Awareness to detect creatures making a subtle sound. If they are actively trying to hide, they may contest your roll with Discretion.
 Once aware of a creature, you remain aware of it (even if it breaks line of sight) unless it successfully Hides from you.
 Creatures that cannot see do not automatically become aware of creatures or objects within line of sight. Creatures that cannot hear do not remain aware of creatures they cannot see.
+
+### Casting a Spell
+
+Casting a spell doesn't require to you speak, but it does always give away your location with sound. You might have your character speak magic words, but you could equally choose for the magic to produce a ringing sound, or gentle music at your location. Anyone who can hear when you cast a spell become aware of you and learn your location. You can still cast spells as normal in an area of silence.
+Casting spells doesn't require any particular movements, and doesn't need you to have a free hand.
+Casting spells doesn't require any specific material or device (e.g. magic wand), though you are welcome to impose any restrictions on your character that you wish.
 
 ## Helplessness
 
