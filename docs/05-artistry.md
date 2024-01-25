@@ -31,43 +31,137 @@ For example, a character with proficiency in Jewellery examining a lump of amber
 
 Each Artistry in this list includes both a list of normal things that could be done with it (i.e. without rolling), and some suggestions for unusual situations to apply the proficiency to.
 
+### Calligraphy
+
+From the Greek _kalligraphía_, meaning "beautiful writing". This Artistry stretches to include the study of handwriting in general as well as traditional calligraphy.
+
+Basic:
+
+- Writing beautifully.
+- Writing quickly (and legibly).
+
+Advanced:
+
+- Copying handwriting, or forging signatures.
+
+### Carpentry
+
+This Artistry is fundamentally about working wood into whatever shapes you like, but stretches to include assessing wooden structures for weak points and directing others to build more efficiently.
+
+Basic:
+
+- Make a chair, or a table.
+- Produce wood carvings.
+
+Advanced:
+
+- Direct your allies to build a makeshift bridge as fast as possible.
+- Barricade windows to keep the zombies out.
+
+### Cartography
+
+Basic:
+
+- Map your travels.
+- Find your way with a map and compass.
+
+Advanced:
+
+- Jot down an accurate summary of data gained from Information spells as an action.
+
+### Cooking
+
+Basic:
+
+- Make a good meal out of common ingredients.
+- Taste and talk about food like a professional.
+
+Advanced:
+
+- Make a strange meal out of strange ingredients.
+
+### Cryptography
+
+Basic:
+
+- Create ciphered messages, only decipherable with a key that you share.
+- Recall information about cryptographic techniques, and recognise them.
+
+Advanced:
+
+- Invent new methods of secure communication.
+- Break ciphers created by other people.
+
 ### Creative Writing
 
 Put pen to paper and come up with something new. Or just recycle things you like from books you've read; I won't judge.
 
-Normal:
+Basic:
 
 - Novelise your adventures.
 - Write a children's book.
 
-Unusual:
+Advanced:
 
 - Fabricate a believable fake identity.
 - Recognise a particularly cliché murder method.
 
-### Textiles
+### Forensics
 
-Textiles includes the creation and repair of clothing, as well household fabrics such as bedsheets and tablecloths.
+Basic:
 
-Normal:
+- Know what information to look for at a crime scene.
+- Take and compare fingerprints.
 
-- Repair everyday damage to an item of clothing.
-- Create a beautiful ballgown.
+Advanced:
 
-Unusual:
+- Notice deliberately concealed clues.
+- Spot tiny details on people that you are interacting with (e.g. mud on their shoes, or a grass seed stuck to their sleeve).
 
-- Sew six bedsheets together into a parachute.
+### Gardening
+
+Basic:
+
+- Growing any kind of plant.
+- Groundskeeping.
+
+Advanced:
+
+- Foraging for edible plants in Hell.
+- Raising the plant from Little Shop of Horrors.
+
+### Glassblowing
+
+Basic:
+
+- Create glass objects, or glass details for other creations.
+
+Advanced:
+
+- Invent the microscope.
+
+### Herbalism
+
+Basic:
+
+- Creating effective natural remedies for common diseases.
+- Diagnosing and treating common diseases.
+
+Advanced:
+
+- Knowing about rare and powerful plants.
+- Formulating cures for more esoteric diseases.
 
 ### Jewellery
 
 Jewellery includes the creation and appraisal of jewellery of all kinds (e.g. precious metals, gemstones, carved bone).
 
-Normal:
+Basic:
 
 - Appraise the value of gems or precious metals.
 - Forge bespoke wedding rings.
 
-Unusual:
+Advanced:
 
 - Recognise a specific gem with political importance.
 - Notice magically _traced_ jet or amber hidden in an item of jewellery.
@@ -76,46 +170,83 @@ Unusual:
 
 Leatherworking concerns the production and work of animal hides (and synthetic analogues, depending on your setting). This field also includes knowledge of shoe-making, even from non-leather materials.
 
-Normal:
+Basic:
 
 - Repair damage to a leather cloak or pair of boots.
--
+- Create a stylish leather satchel.
 
-Unusual:
+Advanced:
 
-### Cooking
-
-Normal:
-
-- Make a good meal out of common ingredients.
-- Taste and talk about food like a professional.
-
-Unusual:
-
-- Make a strange meal out of strange ingredients.
-
-### Gardening
-
-### Herbalism
-
-### Painting
-
-### Calligraphy
+- Identify the origin of a leather object.
 
 ### Makeup
 
-### Smithing
+Basic:
 
-### Carpentry
+- Making people look more (or less) beautiful.
+- Dying hair.
+
+Advanced:
+
+- Disguising yourself as someone else.
+- Creating convincing fake wounds.
 
 ### Masonry
 
+Basic:
+
+- Carve stone.
+- Build, or direct the construction of a stone building.
+
+Advanced:
+
+- Determine the origin and age of an ancient ruin.
+
+### Painting
+
+Basic:
+
+- Creating your own paintings.
+- Applying body paint.
+- Tattooing.
+
+Advanced:
+
+- Telling if a painting you examine is a forgery.
+- Making your own forgeries.
+
 ### Pottery
 
-### Glassblowing
+Basic:
 
-### Cartography
+- Create pretty pots.
+- Create useful pots.
 
-### Cryptography
+Advanced:
 
-### Forensics
+- Reconstruct a broken pot.
+
+### Smithing
+
+Basic:
+
+- Make normal weapons or armour.
+- Make bespoke equipment from any metal for your allies.
+
+Advanced:
+
+- Invent a gun that shoots swords, or armour with built-in grappling hooks.
+- Spot structural weaknesses in a large metal structure.
+
+### Textiles
+
+Textiles includes the creation and repair of clothing, as well household fabrics such as bedsheets and tablecloths.
+
+Basic:
+
+- Repair everyday damage to an item of clothing.
+- Create a beautiful ballgown.
+
+Advanced:
+
+- Sew six bedsheets together into a parachute.
