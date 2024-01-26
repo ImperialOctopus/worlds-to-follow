@@ -10,15 +10,15 @@ import CustomDocCard from "@theme/CustomDocCard";
 
 <section className="row">
     <article className="col col--6 margin-bottom--lg">
-        <CustomDocCard href="skills/hand" icon="🗃️" title="Hand" description="Skills about using your body, and being physically able." />
+        <CustomDocCard href="skills/hand" icon="✊" title="Hand" description="Being in tune with your body, being strong enough to control your strength." />
     </article>
     <article className="col col--6 margin-bottom--lg">
-        <CustomDocCard href="skills/paper" icon="🗃️" title="Paper" description="Skills about using your mind, and reading a lot of books." />
+        <CustomDocCard href="skills/paper" icon="🤓" title="Paper" description="Using your mind, and knowing a lot of things." />
     </article>
     <article className="col col--6 margin-bottom--lg">
-        <CustomDocCard href="skills/pen" icon="🗃️" title="Pen" description="Skills about using creativity, and understanding others." />
+        <CustomDocCard href="skills/pen" icon="🖌️" title="Pen" description="Skills about using creativity, and understanding others." />
     </article>
     <article className="col col--6 margin-bottom--lg">
-        <CustomDocCard href="skills/sword" icon="🗃️" title="Sword" description="Skills about using cunning, and staying out of trouble." />
+        <CustomDocCard href="skills/sword" icon="🍃" title="Sword" description="Skills about using cunning, and staying out of trouble." />
     </article>
 </section>
