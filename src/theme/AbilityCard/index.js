@@ -17,7 +17,7 @@ export default function AbilityCard({
 }) {
   return (
     <div class="row">
-      <div class="col col--6 col--offset-3">
+      <div class="col col--8 col--offset-2">
         <div class="card">
           <div class="card__header">
             <div class="avatar">
