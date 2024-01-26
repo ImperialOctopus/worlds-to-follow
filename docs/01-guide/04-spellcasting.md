@@ -1,5 +1,9 @@
 # Spells and Traces
 
+## Arcane Arts
+
+You learn one arcane Art when you reach 1, 3, 5, 7, and 9 in Arcane. Some skill abilities might also give you extra Arts; these don't count against your normal limit. If you already know the Art you would gain, gain a different extra Art instead.
+
 ## Spell Descriptions
 
 ### Speed
