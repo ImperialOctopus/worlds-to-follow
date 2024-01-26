@@ -2,11 +2,11 @@
 
 Speed up, slow down. Skirt the edges of causality. Time is a river; sink to the bottom.
 
-### Overclock
+## Fast-Forward
 
 <AbilityCard
 speed="action"
-title="Overclock"
+title="Fast-Forward"
 subtitle="Acceleration spell"
 parameters={["Speed: Action.", "Range: Touch.", "Target: Creature.", "Cost: X.", "Concentration."]}>
 Affected creature gains the following:
@@ -18,7 +18,52 @@ Affected creature gains the following:
 When this spell ends, the affected creature cannot take actions or move until the end of its next turn.
 </AbilityCard>
 
-### Supersonic (World 2)
+### Motion Blur
+
+_Prerequisite: Alchemy 4_
+
+<AbilityCard
+speed="enhancement"
+title="Motion Blur"
+subtitle="Spell enhancement">
+When you cast Fast-Forward, if X is 3 or higher, the affected creature gains:
+
+- Cannot be perceived while moving.
+- Gain an edge on all attack rolls.
+
+</AbilityCard>
+
+### Afterimage
+
+_Prerequisite: Alchemy 6_
+
+<AbilityCard
+speed="enhancement"
+title="Afterimage"
+subtitle="Spell enhancement">
+When you cast Fast-Forward, if X is 5 or higher, the affected creature gains:
+
+- Gain an edge on all rolls made to avoid attacks.
+
+</AbilityCard>
+
+### Time-Lock Projectile
+
+_Prerequisite: Arcane 4_
+
+<AbilityCard
+speed="enhancement"
+title="Time-Lock Projectile"
+subtitle="Acceleration spell">
+When you cast Fast-Forward, the affected creature gains:
+
+- Targets of your ranged attacks cannot benefit from edge on their defence rolls.
+
+</AbilityCard>
+
+## Supersonic
+
+_Prerequisite: World 2_
 
 <AbilityCard
 speed="attack"
@@ -28,7 +73,9 @@ parameters={["Speed: Attack.", "Range: 10 m."]}>
 Attack with World vs. Awareness.
 </AbilityCard>
 
-### Half-Step (World 4)
+## Half-Step
+
+_Prerequisite: World 4_
 
 <AbilityCard
 speed="action"
@@ -44,7 +91,9 @@ Affected creature gains the following:
 
 </AbilityCard>
 
-### Stasis (World 6)
+### Stasis
+
+_Prerequisite: World 6_
 
 <AbilityCard
 speed="ritual"
@@ -56,44 +105,9 @@ If a creature is affected, it falls into a deep sleep while the spell lasts.
 Affected creature or object does not age, or otherwise change due to the passage of time.
 </AbilityCard>
 
-### Motion Blur (Alchemy 4)
+## Time Stop
 
-<AbilityCard
-speed="enhancement"
-title="Motion Blur"
-subtitle="Spell enhancement">
-When you cast Overclock, if X is 3 or higher, the affected creature gains:
-
-- Cannot be perceived while moving.
-- Gain an edge on all attack rolls.
-
-</AbilityCard>
-
-### Afterimage (Alchemy 6)
-
-<AbilityCard
-speed="enhancement"
-title="Afterimage"
-subtitle="Spell enhancement">
-When you cast Overclock, if X is 5 or higher, the affected creature gains:
-
-- Gain an edge on all rolls made to avoid attacks.
-
-</AbilityCard>
-
-### Overclock Projectiles (Arcane 4)
-
-<AbilityCard
-speed="enhancement"
-title="Overclock Projectiles"
-subtitle="Acceleration spell">
-When you cast Overclock, the affected creature gains:
-
-- Targets of your ranged attacks cannot benefit from edge on their defence rolls.
-
-</AbilityCard>
-
-### Time Stop (Arcane 4, Alchemy 6)
+_Prerequisite: Arcane 4, Alchemy 6_
 
 <AbilityCard
 speed="action"
