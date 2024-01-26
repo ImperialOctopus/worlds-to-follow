@@ -1,5 +1,6 @@
 ---
 slug: "/arts"
+title: "Magical Arts"
 ---
 
 # Arts
