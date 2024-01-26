@@ -21,7 +21,7 @@ export default function AbilityCard({
         <div class="card">
           <div class="card__header">
             <div class="avatar">
-              <SpeedIcon speed={speed} />
+              <SpeedIcon speed={speed ?? "action"} />
 
               <div class="avatar__intro">
                 <div class="avatar__name">{title}</div>
@@ -31,7 +31,7 @@ export default function AbilityCard({
               </div>
             </div>
           </div>
-          {image != null ? <div class="card__image">{image}</div> : null}
+          <div class="card__image">{image}</div>
           <div class="card__body ability_card_body">
             <small>
               {parameters != null ? (

@@ -1,5 +1,6 @@
 ---
 slug: /skills/hand
+description: "Hey"
 ---
 
 import DocCardList from "@theme/DocCardList";
