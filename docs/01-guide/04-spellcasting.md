@@ -14,16 +14,17 @@ When you cast a spell, you may choose to apply any or all spell enhancements you
 
 ### Range
 
-Spells with a range of Self can target only the caster. They are not affected by spell enhancements that would increase their range.
+Spells with a range of Self can target only the caster. They are not affected by spell enhancements that would increase their range. Spells with a range of Self that specify an Area have their affected area originate with you (affecting you), and move with you for the duration of the spell.
+
 Spells with a range of Touch can only affect targets adjacent to the caster, and require physical contact (they cannot be used if the caster cannot move). Touch spells can be thought of as "0 m", and are increased by enhancements that add range; if their range is increased, they are no longer Touch range.
 
 ### Area
 
-Spells with a specified Area affect targets within an area. You choose the point of origin of that area within the range of the spell (you may be able to affect targets outside of the range of the spell).
+Spells that do not specify an Area require you to specify which targets to affect within their range. You must be aware of those targets to affect them.
 
-Spells that do not specify an Area effectively have an Area equal to their Range; you choose targets within range of you.
+Spells with a specified Area affect targets within an area. You choose the point of origin of that area within the range of the spell (you may be able to affect targets outside of the range of the spell). If a spell targets **all** of a certain kind of target within an Area, you don't need to be aware of them. Unless specified in the spell's description, you can't move a spell's area once it's cast.
 
-Sphere Areas are centred on the point of origin, and specify their radius.
+- Sphere Areas are centred on the point of origin, and specify their radius.
 
 ### Target
 
