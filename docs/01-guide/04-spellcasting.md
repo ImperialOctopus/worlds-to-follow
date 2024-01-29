@@ -10,21 +10,41 @@ Each Art contains at least one spell that you automatically gain when you learn 
 
 When you cast a spell, you may choose to apply any or all spell enhancements you know that apply to it. You choose when you cast the spell, and can choose different enhancements whenever you cast it. These can dramatically change what your spells are capable of.
 
-## Spell Descriptions
+## Spell Mechanics
+
+### Affecting Things
+
+When you cast a spell, it affects certain things (e.g. creatures, objects, or a area of space). Spells can't cause negative effects to creatures that they don't affect (and unwilling creatures will always be able to roll to avoid being affected by spells).
+
+### Origin
+
+The origin (or origins) of a spell are the points where its effects come from. For example, if a spell directly targets a creature, the origin of that spell is that creature. Spells might also originate from a point in space, or from an object. If a spell originates from a creature or object, then the origin (and therefore spell effect) moves with that creature or object.
+
+- The Origin you choose for a spell must be within the spell's Range.
+- If a spell doesn't specify an Origin, it's the same as the spell's Target.
+- Spells can have multiple Origins; they must all be different, and within Range.
+- A spell's Area starts from its Origin.
 
 ### Range
 
-Spells with a range of Self can target only the caster. They are not affected by spell enhancements that would increase their range. Spells with a range of Self that specify an Area have their affected area originate with you (affecting you), and move with you for the duration of the spell.
+Range describes how far away from you the spell's origin (or origins) can be.
 
-Spells with a range of Touch can only affect targets adjacent to the caster, and require physical contact (they cannot be used if the caster cannot move). Touch spells can be thought of as "0 m", and are increased by enhancements that add range; if their range is increased, they are no longer Touch range.
+Spells with a range of Self can target only you. They are not affected by spell enhancements that would increase their range.
+
+Spells with a range of Touch can only affect targets adjacent to you, and require physical contact (they thus cannot be used if you can't, for any reason, reach out and touch the target). Touch spells can be thought of as "0 m"; they are affected by enhancements that add range. If their range is increased above zero, they are no longer Touch range.
 
 ### Area
 
-Spells that do not specify an Area require you to specify which targets to affect within their range. You must be aware of those targets to affect them.
+Area describes how far from its Origin a spell's effect reaches, and the shape of its reach. A spell's Area moves with its Origin (if the Origin moves).
 
-Spells with a specified Area affect targets within an area. You choose the point of origin of that area within the range of the spell (you may be able to affect targets outside of the range of the spell). If a spell targets **all** of a certain kind of target within an Area, you don't need to be aware of them. Unless specified in the spell's description, you can't move a spell's area once it's cast.
+- If a spell doesn't specify an Area, its Area is Individual. Individual Area spells affect only the creature or object that they originate from.
+- Spells with an Area affect everything matching their Target (e.g. all creatures, all objects) within the space described by that Area.
 
-- Sphere Areas are centred on the point of origin, and specify their radius.
+Spells with an Area of Individual require you to specify which targets to affect within their range. You must be aware of those targets to affect them — you don't need to be aware of targets affected by a non-Individual Area.
+
+Area shapes extend as follows:
+
+- Sphere Areas are centred on their Origin, and specify their radius.
 
 ### Target
 

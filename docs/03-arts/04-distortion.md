@@ -15,9 +15,9 @@ This spell can target objects, in which case the illusion originates from the ob
 
 <AbilityCard
 speed="action"
-title="Enchant"
+title="Create Image"
 subtitle="Distortion spell"
-parameters={["Speed: Action.", "Range: 5 m.", "Target: Creature.", "Cost: 2.", "Concentration."]}>
+parameters={["Speed: Action.", "Range: 3 m.", "Target: Creature.", "Cost: 2.", "Concentration."]}>
 
 </AbilityCard>
 
