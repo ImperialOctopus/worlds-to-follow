@@ -21,9 +21,18 @@ When you cast a spell, it affects certain things (e.g. creatures, objects, or a 
 The origin (or origins) of a spell are the points where its effects come from. For example, if a spell directly targets a creature, the origin of that spell is that creature. Spells might also originate from a point in space, or from an object. If a spell originates from a creature or object, then the origin (and therefore spell effect) moves with that creature or object.
 
 - The Origin you choose for a spell must be within the spell's Range.
-- If a spell doesn't specify an Origin, it's the same as the spell's Target.
 - Spells can have multiple Origins; they must all be different, and within Range.
 - A spell's Area starts from its Origin.
+
+Spells usually won't specify an Origin. In that case, just choose targets matching the spell's Target; the spell has an Origin of those targets. If the spell has an Area, instead choose a point in space (within range) for the area to start from.
+
+:::note Default Origin
+
+Unspecified Origins depend on whether the spell affects individual targets or an area.
+If the spell has no Area, the spell's Origin is the same as its Target.
+If the spell has an Area, the spell's Origin is Point.
+
+:::
 
 ### Range
 
@@ -48,7 +57,7 @@ Area shapes extend as follows:
 
 ### Target
 
-Spells can target creatures, objects, or locations. Objects and locations are always affected if targeted, whereas unwilling creatures will resist spells. You can't target objects being carried by unwilling creatures.
+Spells can target creatures, objects, or locations. Objects and locations are always affected if within the spell's Area, whereas unwilling creatures will roll to resist spells. You can't affect objects being carried by unwilling creatures.
 
 Spell descriptions that give a singular target (e.g. Creature, or Object) target one of whatever is specified. Plural targets provide a number (or Any, for unlimited).
 
