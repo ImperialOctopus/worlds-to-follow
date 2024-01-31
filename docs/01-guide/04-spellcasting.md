@@ -46,7 +46,7 @@ Spells with a range of Touch can only affect targets adjacent to you, and requir
 
 Area describes how far from its Origin a spell's effect reaches, and the shape of its reach. A spell's Area moves with its Origin (if the Origin moves).
 
-- If a spell doesn't specify an Area, its Area is Individual. Individual Area spells affect only the creature or object that they originate from.
+- If a spell doesn't specify an Area, its Area is Individual.
 - Spells with an Area affect everything matching their Target (e.g. all creatures, all objects) within the space described by that Area.
 
 Spells with an Area of Individual require you to specify which targets to affect within their range. You must be aware of those targets to affect them — you don't need to be aware of targets affected by a non-Individual Area.
@@ -54,12 +54,15 @@ Spells with an Area of Individual require you to specify which targets to affect
 Area shapes extend as follows:
 
 - Sphere Areas are centred on their Origin, and specify their radius.
+- Cylinder Areas originate on the ground, specify their radius, and extend upwards indefinitely.
 
 ### Target
 
-Spells can target creatures, objects, or locations. Objects and locations are always affected if within the spell's Area, whereas unwilling creatures will roll to resist spells. You can't affect objects being carried by unwilling creatures.
+Spells can target Creatures or Objects. Objects are always successfully affected, whereas unwilling creatures will roll to resist spells. You can't affect objects being carried by unwilling creatures.
 
 Spell descriptions that give a singular target (e.g. Creature, or Object) target one of whatever is specified. Plural targets provide a number (or Any, for unlimited).
+
+Spells which don't directly affect creatures or objects won't have a Target. For example, a spell to create an illusion at a point in space, or a spell to conjure an object.
 
 ### Cost (Mana)
 
