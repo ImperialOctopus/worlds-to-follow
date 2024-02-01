@@ -67,7 +67,7 @@ _Prerequisite: Depths 6_
 <AbilityCard
 speed="attack"
 title="Start Sequence Interference"
-subtitle="Spellbreak spell""
+subtitle="Spellbreak spell"
 parameters={["Speed: Attack.", "Range: 10 m.", "Target: Creature.", "Cost: 3.", "Concentration."]}>
 Any _traces_ the affected creature has (except Spellcasting) become inactive until this spell ends. Affect an unwilling creature by rolling Personal Reality.
 </AbilityCard>
