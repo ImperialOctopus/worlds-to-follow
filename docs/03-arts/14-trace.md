@@ -37,7 +37,7 @@ _Prerequisite: Visualisation 4_
 speed="enhancement"
 title="Area Warding"
 subtitle="Spell enhancement">
-When you cast a spell of any Art with a target of Object, you can target a 1 m square region of wall, floor, or ceiling. Each such section counts separately for _tracing_, and each can hold one trace, regardless of its material.
+When you cast a spell of any Art that targets an Object, you can count a 1 m square region of wall, floor, or ceiling as a single object. Each such section counts separately for _tracing_, and each can hold one trace, regardless of its material.
 </AbilityCard>
 
 ### Inorganic Optimisations
