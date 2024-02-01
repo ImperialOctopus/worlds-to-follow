@@ -8,7 +8,7 @@ Counter-summon. Deny para-causality. Cling desperately. Walk through the valley 
 speed="action"
 title="Protection Circle"
 subtitle="Interdiction spell"
-parameters={["Speed: Action.", "Range: Touch.", "Area: Cylinder (5 m).", "Target: Area.", "Cost: 6.", "Concentration."]}>
+parameters={["Speed: Action.", "Range: Touch.", "Area: Cylinder (5 m).", "Cost: 6.", "Concentration."]}>
 You infuse the affected area with magic; you are entitled to any of the following effects:
 
 - Outsiders cannot willingly enter or leave the affected area.
@@ -25,7 +25,7 @@ _Prerequisite: Arcane 4_
 speed="action"
 title="Lesser Natural Ward"
 subtitle="Interdiction spell"
-parameters={["Speed: Action.", "Range: Self.", "Area: Sphere (100 m).", "Target: Area.", "Cost: 4.", "Concentration."]}>
+parameters={["Speed: Action.", "Range: Self.", "Area: Sphere (100 m).", "Cost: 4.", "Concentration."]}>
 You become aware when Summoning magic would bring an object or creature to a location within the affected area, learning the nature of the spell and the identity of the caster. As a reaction, you may roll Personal Reality against the caster to counter the spell.
 </AbilityCard>
 

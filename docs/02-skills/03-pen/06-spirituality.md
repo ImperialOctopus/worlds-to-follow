@@ -16,7 +16,7 @@ Those skilled in Spirituality:
 speed="action"
 title="Divine Sense"
 subtitle="Mundane ability"
-parameters={["Speed: Action.", "Range: Self.", "Area: Sphere (15 m).", "Target: Area."]}>
+parameters={["Speed: Action.", "Range: Self.", "Area: Sphere (15 m)."]}>
 You sense the presence of Outsiders within the affected area, even through walls. You learn their precise locations and origins.
 </AbilityCard>
 

@@ -8,7 +8,7 @@ The senses deceive us from time to time, and it is prudent never to trust wholly
 speed="action"
 title="Create Image"
 subtitle="Distortion spell"
-parameters={["Speed: Action.", "Range: 3 m.", "Origin: Point or Object.", "Area: Sphere (1 m).", "Cost: 2.", "Concentration."]}>
+parameters={["Speed: Action.", "Range: 3 m.", "Area: Sphere (1 m).", "Origin: Point or Object.", "Cost: 2.", "Concentration."]}>
 Creates an illusory image of a single object within this spell's area. The image may be as simple or complex as you like, and can be animated as you wish. The illusion is visual only; it produces no sound or other sensory information, and other objects pass through it.
 
 </AbilityCard>
@@ -237,7 +237,7 @@ You gain an alternate way of casting Deny Sense, with the following changes:
 
 - Speed: Action.
 - Range: Touch.
-- Target: Object.
 - Area: Sphere (3 m).
+- Origin: Object.
 
 </AbilityCard>

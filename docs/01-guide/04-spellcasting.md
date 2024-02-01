@@ -44,7 +44,7 @@ Area shapes extend as follows:
 Areas have an Origin: the point in space where they starts from. Area spells might originate from a Creature or Object; if they do, the Origin (and Area) move with that creature or object. If the Origin is a Point, it doesn't move.
 
 - If a spell has Range: Self, its Origin is Creature (so it moves with you).
-- If an Area doesn't specify a type of Origin (and it isn't Range: Self), it's Point (a point in space).
+- If a spell doesn't specify a type of Origin (and it isn't Range: Self), it's Point (a point in space).
 - The Origin you choose for a spell must be within the spell's range.
 - A spell's Area starts from its Origin.
 
@@ -57,8 +57,7 @@ A spell's Target describes the kind of things that the spell can affect (e.g. Cr
 - "Any" allows you to choose any number of the specified type of target.
 - All affects all matching targets (even if you aren't aware of them).
 
-Spells which don't directly affect creatures or objects won't have a Target (Target: None). Spells with Target: Area affect the space of their Area directly instead of just creatures or objects within it.
-For example, a spell to create an illusion at a point in space might have Target: Area, and a spell to conjure an object might have Target: None.
+Spells which don't directly affect creatures or objects won't have a Target.
 
 ### Cost (Mana)
 
