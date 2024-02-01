@@ -177,7 +177,7 @@ _Prerequisite: Expression 4, Personal Reality 4, Arcane 6_
 <AbilityCard
 speed="alternate"
 title="Artefact of Disguise"
-subtitle="Spell enhancement">
+subtitle="Alternate spell">
 You gain an alternate way of casting Disguise, with the following changes:
 
 - Speed: Ritual.
@@ -232,7 +232,7 @@ _Prerequisite: Discretion 4, Arcane 6_
 <AbilityCard
 speed="alternate"
 title="Artefact of Disruption"
-subtitle="Spell enhancement">
+subtitle="Alternate spell">
 You gain an alternate way of casting Deny Sense, with the following changes:
 
 - Speed: Action.

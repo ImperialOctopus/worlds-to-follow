@@ -16,53 +16,49 @@ When you cast a spell, you may choose to apply any or all spell enhancements you
 
 When you cast a spell, it affects certain things (e.g. creatures, objects, or a area of space). Spells can't cause negative effects to creatures that they don't affect (and unwilling creatures will always be able to roll to avoid being affected by spells).
 
-### Origin
-
-The origin (or origins) of a spell are the points where its effects come from. For example, if a spell directly targets a creature, the origin of that spell is that creature. Spells might also originate from a point in space, or from an object. If a spell originates from a creature or object, then the origin (and therefore spell effect) moves with that creature or object.
-
-- The Origin you choose for a spell must be within the spell's Range.
-- Spells can have multiple Origins; they must all be different, and within Range.
-- A spell's Area starts from its Origin.
-
-Spells usually won't specify an Origin. In that case, just choose targets matching the spell's Target; the spell has an Origin of those targets. If the spell has an Area, instead choose a point in space (within range) for the area to start from.
-
-:::note Default Origin
-
-Unspecified Origins depend on whether the spell affects individual targets or an area.
-If the spell has no Area, the spell's Origin is the same as its Target.
-If the spell has an Area, the spell's Origin is Point.
-
-:::
-
 ### Range
 
-Range describes how far away from you the spell's origin (or origins) can be.
+Range describes how far away from you the spell's targets can be.
 
-Spells with a range of Self can target only you. They are not affected by spell enhancements that would increase their range.
+Spells with a Range of Self can target only you. They are not affected by spell enhancements that would increase their Range. They have an Origin: Self.
 
 Spells with a range of Touch can only affect targets adjacent to you, and require physical contact (they thus cannot be used if you can't, for any reason, reach out and touch the target). Touch spells can be thought of as "0 m"; they are affected by enhancements that add range. If their range is increased above zero, they are no longer Touch range.
 
 ### Area
 
-Area describes how far from its Origin a spell's effect reaches, and the shape of its reach. A spell's Area moves with its Origin (if the Origin moves).
+Some spells affect an Area, instead of individual targets. You need to specify an Origin for the Area, and then choose targets for the spell from within that area.
 
-- If a spell doesn't specify an Area, its Area is Individual.
-- Spells with an Area affect everything matching their Target (e.g. all creatures, all objects) within the space described by that Area.
-
-Spells with an Area of Individual require you to specify which targets to affect within their range. You must be aware of those targets to affect them — you don't need to be aware of targets affected by a non-Individual Area.
+- If a spell doesn't specify an Area, it has Area: None. Choose targets from within the spell's range; the spell affects each target separately.
+- Spells with an Area can only affect things matching their Target (e.g. creatures, objects) within the space described by that Area.
+- Only targets entirely within the spell's Area can be affected by it.
 
 Area shapes extend as follows:
 
-- Sphere Areas are centred on their Origin, and specify their radius.
-- Cylinder Areas originate on the ground, specify their radius, and extend upwards indefinitely.
+- Sphere Areas comprise a sphere centred on its Origin, specifying its radius.
+- Cylinder Areas comprise a cylinder centred on its Origin (perpendicular to the ground), specifying its radius. It extends down to the ground, and upwards indefinitely.
+- Line Areas comprise a line starting at its Origin, specifying its length. They can affect any target that the line intersects.
+- Cube Areas comprise a cube with one corner at its Origin, specifying the length of its edges.
+
+#### Origin
+
+Areas have an Origin: the point in space where they starts from. Area spells might originate from a Creature or Object; if they do, the Origin (and Area) move with that creature or object. If the Origin is a Point, it doesn't move.
+
+- If a spell has Range: Self, its Origin is also Self.
+- If an Area doesn't specify a type of Origin (and it isn't Self), it's Point (a point in space).
+- The Origin you choose for a spell must be within the spell's range.
+- A spell's Area starts from its Origin.
 
 ### Target
 
-Spells can target Creatures or Objects. Objects are always successfully affected, whereas unwilling creatures will roll to resist spells. You can't affect objects being carried by unwilling creatures.
+A spell's Target describes the kind of things that the spell can affect (e.g. Creatures or Objects). Objects are always successfully affected if targeted, whereas unwilling creatures will roll to resist spells. You can't affect objects being carried by unwilling creatures. Targets are chosen from within its Area, or Range if it doesn't have an Area.
 
-Spell descriptions that give a singular target (e.g. Creature, or Object) target one of whatever is specified. Plural targets provide a number (or Any, for unlimited).
+- Spell descriptions that give a singular Target (e.g. Creature, or Object) affect one of whatever is specified.
+- Targets with a number affect _up to_ that many of the specified thing. For example, Creatures (3) could affect zero, one, two, or three creatures.
+- "Any" allows you to choose any number of the specified type of target.
+- All affects all matching targets (even if you aren't aware of them).
 
-Spells which don't directly affect creatures or objects won't have a Target. For example, a spell to create an illusion at a point in space, or a spell to conjure an object.
+Spells which don't directly affect creatures or objects won't have a Target (Target: None). Spells with Target: Area affect the space of their Area directly instead of just creatures or objects within it.
+For example, a spell to create an illusion at a point in space might have Target: Area, and a spell to conjure an object might have Target: None.
 
 ### Cost (Mana)
 
