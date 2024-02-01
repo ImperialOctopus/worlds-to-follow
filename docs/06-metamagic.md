@@ -8,7 +8,7 @@ You gain one Metamagic from the list below (that you qualify for) when you reach
 
 When you cast a spell, choose any Metamagics that you have to apply to it. They can be applied to any spell, regardless of its Art.
 
-**Skill Requirements (Red)**: Some Metamagic options have a skill requirement which you must meet to be able to take them — these, like Art prerequisites, refer to your base skill before any temporary increases or decreases (i.e. you do not lose access to gated Metamagics if the prerequisite skills are temporarily decreased).
+**Skill Requirements (Blue)**: Some Metamagic options have a skill requirement which you must meet to be able to take them — these, like Art prerequisites, refer to your base skill before any temporary increases or decreases (i.e. you do not lose access to gated Metamagics if the prerequisite skills are temporarily decreased).
 
 **Signature Metamagic (Gold)**: Some Metamagics are marked as "signature". You can only have one signature Metamagic.
 
