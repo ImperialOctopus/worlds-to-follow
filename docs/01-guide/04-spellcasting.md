@@ -43,8 +43,8 @@ Area shapes extend as follows:
 
 Areas have an Origin: the point in space where they starts from. Area spells might originate from a Creature or Object; if they do, the Origin (and Area) move with that creature or object. If the Origin is a Point, it doesn't move.
 
-- If a spell has Range: Self, its Origin is also Self.
-- If an Area doesn't specify a type of Origin (and it isn't Self), it's Point (a point in space).
+- If a spell has Range: Self, its Origin is Creature (so it moves with you).
+- If an Area doesn't specify a type of Origin (and it isn't Range: Self), it's Point (a point in space).
 - The Origin you choose for a spell must be within the spell's range.
 - A spell's Area starts from its Origin.
 
