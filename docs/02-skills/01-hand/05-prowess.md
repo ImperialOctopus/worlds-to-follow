@@ -16,13 +16,7 @@ Those skilled in Prowess:
 speed="attack"
 title="Swordskill"
 subtitle="Mundane ability"
-parameters={["Speed: Attack.", "Range: Touch.", "Target: Creature or Object."]}
-image={
-<img
-src={require("@site/static/img/skill-abilities/prowess-swordskill.jpg").default}
-alt="Image alt text"
-title="Logo Title Text 1"
-/>}>
+parameters={["Speed: Attack.", "Range: Touch.", "Target: Creature or Object."]}>
 Attack with Prowess.
 </AbilityCard>
 
