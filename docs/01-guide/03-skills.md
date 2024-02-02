@@ -10,7 +10,7 @@ Reaching certain (odd) levels in skills can unlock new spells and spell enhancem
 
 ## Temporary Skill Changes
 
-Some effects temporarily increase or reduce your skills. You retain any unlocked skill abilities even if the relevant skill is reduced below the required value for that perk, and, similarly, do not unlock new skill abilities from temporary increases. Skills cannot be increased above 10 or reduced below 1.
+Some effects temporarily increase or reduce your skills. You retain any unlocked skill abilities even if the relevant skill is reduced below the required value for that perk, and, similarly, do not unlock new skill abilities from temporary increases. Skills cannot be increased above 9 or reduced below 1 (if they ever would be, they instead change to 9 or 1 and the rest of the increase or reduction is lost).
 
 ### Skill Costs
 
