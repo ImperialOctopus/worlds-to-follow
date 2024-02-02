@@ -55,17 +55,21 @@ A spell's Target describes the kind of things that the spell can affect (e.g. Cr
 - Spell descriptions that give a singular Target (e.g. Creature, or Object) affect one of whatever is specified.
 - Targets with a number affect _up to_ that many of the specified thing. For example, Creatures (3) could affect zero, one, two, or three creatures.
 - "Any" allows you to choose any number of the specified type of target.
-- All affects all matching targets (even if you aren't aware of them).
+- "All" affects all matching targets (even if you aren't aware of them).
 
 Spells which don't directly affect creatures or objects won't have a Target.
 
 ### Cost (Mana)
 
-At the start of your turn, you gain an amount of mana equal to your Energetics. Unspent mana is lost at the start of your next turn.
+At the start of your turn, you gain an amount of mana equal to your Energetics. Unspent mana is lost at the start of your next turn (before you gain your new mana).
 Some spells specify a mana cost to cast. You must pay that much mana when you cast them; if you don't have enough, you can't cast that spell. You can choose to pay more mana than required, if you like.
 Spells with a cost of "X" are variable cost; you choose an amount of mana to pay, and X in the spell's effect equals that amount.
 
 If a spell description doesn't list a cost, its cost is zero.
+
+#### Ongoing Spells
+
+If you're concentrating on a spell, you must pay its mana cost on each of your turns. This happens just after you gain your mana for the turn. If the spell had a variable cost, use the same value that you paid when you cast it every turn. If you don't have enough mana to pay in full (for example, if your Energetics has been reduced since you cast the spell), you don't pay anything and the spell immediately ends.
 
 ### Concentration
 
@@ -74,7 +78,7 @@ When you take damage, roll Composure vs. 12. If you fail, you lose concentration
 
 If a spell description doesn't say "Concentration", it doesn't require concentration.
 
-### Attack Speed Spells
+### Attack-Speed Spells
 
 If an attack-speed spell doesn't specify a target, it has a target of "Creature or Object". Attacks all deal 1 damage if they affect their target successfully.
 
