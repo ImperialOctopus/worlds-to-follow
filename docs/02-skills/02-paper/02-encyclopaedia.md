@@ -34,7 +34,7 @@ Choose a topic. When you roll Encyclopaedia regarding that topic, your total can
 speed="enhancement"
 title="Wide Roots"
 subtitle="Enhancement">
-When you fail any roll, you may learn the location of information that could help you (at the arbiter's discretion).
+When you fail any roll, you may learn the location of information that could help you (at the Arbiter's discretion).
 </AbilityCard>
 
 ## 7: General Knowledge

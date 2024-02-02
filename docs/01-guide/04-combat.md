@@ -89,7 +89,7 @@ Creatures rendered unconscious are out of the fight; they can recover later (at 
 
 ### Hiding
 
-You can only target creatures or objects that you are aware of (spells that affect an area will still affect things in that area that you aren't aware of). You become aware of any creatures or objects that you can see, and become aware of any creatures that make a sound (e.g. running, casting a spell). The arbiter may ask you to roll Awareness to detect creatures making a subtle sound. If they are actively trying to hide, they may contest your roll with Discretion.
+You can only target creatures or objects that you are aware of (spells that affect an area will still affect things in that area that you aren't aware of). You become aware of any creatures or objects that you can see, and become aware of any creatures that make a sound (e.g. running, casting a spell). The Arbiter may ask you to roll Awareness to detect creatures making a subtle sound. If they are actively trying to hide, they may contest your roll with Discretion.
 Once aware of a creature, you remain aware of it (even if it breaks line of sight) unless it successfully Hides from you.
 Creatures that cannot see do not automatically become aware of creatures or objects within line of sight. Creatures that cannot hear do not remain aware of creatures they cannot see.
 

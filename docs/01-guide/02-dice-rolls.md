@@ -2,12 +2,12 @@
 
 ## Skill Rolls
 
-Players should propose rolls when their characters take actions outside of the normal; they explain the action they wish their character to take, and suggest an applicable skill. The Arbiter has final say on what skills are appropriate, and decides the difficulty of the roll. Some rolls are called for by the arbiter (e.g. observe details about the environment or resist the effects of a spell).
-Key point: skill rolls are rolled _before_ narrating the relevant action (e.g. roll, and then decide what exactly you say to attempt to persuade someone). Players should narrate the consequences, good or bad, of rolls that they propose. The arbiter will usually narrate the consequences of rolls they call for.
+Players should propose rolls when their characters take actions outside of the normal; they explain the action they wish their character to take, and suggest an applicable skill. The Arbiter has final say on what skills are appropriate, and decides the difficulty of the roll. Some rolls are called for by the Arbiter (e.g. observe details about the environment or resist the effects of a spell).
+Key point: skill rolls are rolled _before_ narrating the relevant action (e.g. roll, and then decide what exactly you say to attempt to persuade someone). Players should narrate the consequences, good or bad, of rolls that they propose. The Arbiter will usually narrate the consequences of rolls they call for.
 
 ### Calculating Rolls
 
-Rolls are calculated as: 2d6 + score. Compare with the roll's difficulty (usually determined by the arbiter). A roll greater than or equal to the difficulty succeeds.
+Rolls are calculated as: 2d6 + score. Compare with the roll's difficulty (usually determined by the Arbiter). A roll greater than or equal to the difficulty succeeds.
 Contested rolls are described as "Offence vs. Defence". The character taking the action (the one with the ability describing the roll) is rolling offence, and their target is defence. In the case of a tie, offence wins.
 
 ### Edge

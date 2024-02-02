@@ -25,4 +25,4 @@ Each category must have a minimum of 1 point, and a maximum of 5.
 
 All languages in your setting will be divided into _common_ and _specialist_ languages. Common languages are those spoken in or around the area you're in, or languages you are likely to come into contact with. Specialist languages are those from far-away countries, dead languages, and other languages that require uncommon training to learn.
 
-You cannot usually learn specialist languages without at least 5 in Encyclopaedia; if your character is from a foreign country or would otherwise have come into contact with a specialist character before the story starts, ask your arbiter if it would be appropriate for you to start with a specialist language.
+You cannot usually learn specialist languages without at least 5 in Encyclopaedia; if your character is from a foreign country or would otherwise have come into contact with a specialist character before the story starts, ask your Arbiter if it would be appropriate for you to start with a specialist language.
