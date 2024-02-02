@@ -10,6 +10,10 @@ Key point: skill rolls are rolled _before_ narrating the relevant action (e.g. r
 Rolls are calculated as: 2d6 + score. Compare with the roll's difficulty (usually determined by the Arbiter). A roll greater than or equal to the difficulty succeeds.
 Contested rolls are described as "Offence vs. Defence". The character taking the action (the one with the ability describing the roll) is rolling offence, and their target is defence. In the case of a tie, offence wins.
 
+### Critical Hits / Misses
+
+This game has no critical hits or misses.
+
 ### Edge
 
 If you have an edge on a roll, roll an extra d6 on top of the usual two. If you have more than one edge on a roll from different sources, each one gives you an extra d6. Keep the highest two d6s from all those that you roll.
