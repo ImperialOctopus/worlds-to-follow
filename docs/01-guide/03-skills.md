@@ -6,7 +6,7 @@ Skill abilities are abilities your character unlocks by reaching certain (even) 
 
 ## Spell Prerequisites
 
-Reaching certain (odd) levels in skills can unlock new spells and spell enhancements. You only gain new spells and spell enhancements from Arts that you know (see [Spellcasting](/guide/spellcasting) for more information about learning Arts). Check the section of this guide for each Art to see what you can unlock, and what skills you need to unlock them.
+Reaching certain (odd) levels in skills can unlock new spells and spell enhancements. You only gain new spells and spell enhancements from Arts that you know (see [Spells and Traces](/guide/spellcasting) for more information about learning Arts). Check the section of this guide for each Art to see what you can unlock, and what skills you need to unlock them.
 
 ## Temporary Skill Changes
 
