@@ -118,7 +118,7 @@ You accelerate time for yourself to such a degree that the world around you appe
 
 - Other creatures cannot perceive you.
 - Nothing except you moves unless directly moved by you.
-- When your turn ends, lose 1 Energetics and immediately take another turn.
+- When your turn ends, lose 2 Energetics. Unless your Energetics is reduced to 1, you immediately take another turn.
 
 When this spell ends, your turn immediately ends.
 
