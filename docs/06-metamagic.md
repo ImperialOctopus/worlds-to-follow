@@ -45,6 +45,7 @@ title="Merciful Magic">
 When you cast a spell that affects creatures within an area, you can choose any creatures to exclude; the spell doesn't affect them, even if they're in the area.
 </MetamagicCard>
 
+<!--
 ### Mirror-Self
 
 <MetamagicCard
@@ -52,6 +53,7 @@ title="Mirror-Self"
 type="signature">
 Your Self-range spells have Touch range instead.
 </MetamagicCard>
+-->
 
 ### Overwhelm
 
