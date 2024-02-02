@@ -30,9 +30,11 @@ Depending on your world (and how experienced your group is), you might start wit
 
 ## Advancement
 
-Advancement is represented by _skill points_, which you can spend to increase your skill scores. Each point increases one skill (e.g. Composure, Precision, Spirituality) by one.
+Advancement is represented by _skill points_, which you can spend to increase your skill scores.
 
-You cannot increase a score to _more than two points higher_ than the next-lowest skill in that category. For example, suppose your Hand skills are:
+The way that you gain skill points will depend on your world — consult your Arbiter for your world's rules. You might gain skill points slowly over time (some number per session, or per story arc), and you might be able to earn them in certain ways (e.g. exceptional role-playing).
+
+Skill points can be spent to increase a skill (e.g. Composure, Precision, Spirituality) by one. You cannot increase a score to _more than two points higher_ than the next-lowest skill in that category. For example, suppose your Hand skills are:
 
 | Skill      | Score |
 | ---------- | ----- |
@@ -48,8 +50,6 @@ You can increase any skill you like from this category. If you increased Alchemy
 Your signature skill is not subject to this restriction: you can increase it as high as you like, regardless of the other skills in its category.
 
 ### Gaining Skill Points
-
-The way that you gain skill points will depend on your world — consult your Arbiter for your world's rules. You may gain skill points for
 
 ## Languages
 

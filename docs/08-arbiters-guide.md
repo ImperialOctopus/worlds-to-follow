@@ -6,6 +6,26 @@ This page contains (what I think is) helpful advice for someone running a game o
 
 :::
 
+## Skill Points
+
+Player characters grow by gaining skill points. How exactly they get them, and how often, are a very important question to answer for your world. If you want to give out skill points over time, use the following guidelines:
+
+- Fast: 2 skill points per session, 1 bonus point per character.
+- Medium: 1 skill point per session, 1 bonus point per 2 characters.
+- Slow: 2 skill points per story arc, 1 bonus point per 4 characters.
+
+If you don't want to tie character progression to real-life sessions, consider either only allowing characters to spend skill points when they rest, or just give skill points when you finish short story arcs in-game.
+
+I suggest you also give out bonus skill points to players who make particularly interesting or character-ful decisions (similar to _Inspiration_ from D&D 5e). Choose an approximate number of skill points to give out per session (split between the whole party). I suggest:
+
+- Fast: 1 bonus point per player per session.
+- Medium: 1 bonus point per two players per session.
+- Slow: 1 bonus point per player per story arc.
+
+You could consider giving bonus points in specific skills, depending on what the character did to earn them.
+
+The progression speed you use will depend on how many story arcs you want your characters to last, and how powerful you want them to end up being.
+
 ## Character Re-Builds
 
 As players become more familiar with the game, they might realise they aren't happy with earlier decisions they made about their character's build. Some people may think of this as a prime role-playing opportunity, but I would allow anyone unhappy with their choices to re-build their character at the end of a story arc.
