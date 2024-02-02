@@ -48,7 +48,7 @@ At the start of combat, all participants roll Awareness. The highest result acts
 
 ### Movement
 
-Character have a movement speed equal to (5 + their Prowess) × 1 m. On their turn they may move up to their speed, split up as they like before, between, or after any Actions they take.
+Characters have a movement speed equal to (5 + their Prowess) × 1 m. On their turn they may move up to their speed, split up as they like before, between, or after any Actions they take.
 
 ### Damage
 
