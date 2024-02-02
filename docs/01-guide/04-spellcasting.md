@@ -26,7 +26,7 @@ Spells with a range of Touch can only affect targets adjacent to you, and requir
 
 ### Area
 
-Some spells affect an Area, instead of individual targets. You need to specify an Origin for the Area, and then choose targets for the spell from within that area.
+Some spells affect an Area, instead of individual targets. Specify an Origin for the Area (along with an orientation, if relevant), and then choose targets for the spell from those entirely within the space described (see the list below).
 
 - If a spell doesn't specify an Area, it has Area: None. Choose targets from within the spell's range; the spell affects each target separately.
 - Spells with an Area can only affect things matching their Target (e.g. creatures, objects) within the space described by that Area.
