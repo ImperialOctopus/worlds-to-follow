@@ -90,7 +90,7 @@ If a spell doesn't specify a way for an unwilling creature to avoid its effects,
 
 ## Magical Signatures
 
-Magic leaves a signature on any objects or creatures affected by it. These magical signatures can be seen with the Detect Magic ability. They can be used to identify:
+Magic leaves a signature on any objects or creatures affected by it. These magical signatures can be seen with the _Detect Magic_ ability. They can be used to identify:
 
 - The Art of the magic.
 - Whether the magic is still ongoing, or has ended.
@@ -117,7 +117,12 @@ Objects can be affected by between one and three traces, depending on their make
 - Objects made from non-biological materials (e.g. metal, stone) can hold one trace.
 - Objects made from materials that were once alive (e.g. wood, leather) can hold two.
 - Objects made from fossilised material (e.g. amber, jet) can hold three.
-  Objects made from a mixture of materials should use the lower number, unless the inclusion of that material is purely ornamental. For example, both a metal-tipped spear with a wooden handle and a steel sword would hold one trace each. A pair of leather gloves with golden adornment would hold two traces, however, as the gold doesn't contribute to the function of the object.
+
+:::note Mixed Materials
+
+Objects made from a mixture of materials should use the lower number, unless the inclusion of that material is purely ornamental. For example, both a metal-tipped spear with a wooden handle and a steel sword would hold one trace each. A pair of leather gloves with golden adornment would hold two traces, however, as the gold doesn't contribute to the function of the object.
+
+:::
 
 ### Inactive Traces
 
