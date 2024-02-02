@@ -12,8 +12,6 @@ Those skilled in Performance:
 
 ## 3: Instrumental
 
-Instrumental
-
 <AbilityCard
 speed="enhancement"
 title="Instrumental"
