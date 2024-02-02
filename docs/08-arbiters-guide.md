@@ -1,7 +1,9 @@
 # Arbiter's Guide
 
 :::info Advice
+
 This page contains (what I think is) helpful advice for someone running a game of Worlds to Follow. Everything here is just my advice, not actual rules!
+
 :::
 
 ## Character Re-Builds
@@ -67,16 +69,63 @@ The following tables show approximate probabilities for success for a character 
 
 **Contested Roll Odds**
 
-Rows show chance of success rolling on offence against a character with the column's modifier to their defence roll (e.g. a character with +5 in Energetics casting _Black Arrow_ (with _Plasma Theory_) against a target with +7 in Reflexes can expect to hit 34% of the time).
+Rows show chance of success rolling on Offence against a character with the column's modifier to their Defence roll (e.g. a character with +5 in Energetics casting _Black Arrow_ (with _Plasma Theory_) against a target with +7 in Reflexes can expect to hit 34% of the time).
 
 :::note
 The values for matched skill are slightly higher than 50%, as ties go to the offence.
 :::
 
-|     | +1    | +3  | +5  | +7  | +9  |
-| --- | ----- | --- | --- | --- | --- |
-| +1  | 56%   | 34% | 16% | 5%  | 1%  |
-| +3  | 76%   | 56% | 34% | 16% | 5%  |
-| +5  | 90%   | 76% | 56% | 34% | 16% |
-| +7  | 97%   | 90% | 76% | 56% | 34% |
-| +9  | 99.6% | 97% | 90% | 76% | 56% |
+ <table>
+    <tr>
+        <th colspan={2} rowspan={2}></th>
+        <th colspan={5}>Defence</th>
+    </tr>
+    <tr>
+        <th>+1</th>
+        <th>+3</th>
+        <th>+5</th>
+        <th>+7</th>
+        <th>+9</th>
+    </tr>
+    <tr>
+        <th rowspan={5}>Offence</th>
+        <th>+1</th>
+        <td>56%</td>
+        <td>34%</td>
+        <td>16%</td>
+        <td>5%</td>
+        <td>1%</td>
+    </tr>
+    <tr>
+        <th>+3</th>
+        <td>76%</td>
+        <td>56%</td>
+        <td>34%</td>
+        <td>16%</td>
+        <td>5%</td>
+    </tr>
+    <tr>
+        <th>+5</th>
+        <td>90%</td>
+        <td>76%</td>
+        <td>56%</td>
+        <td>34%</td>
+        <td>16%</td>
+    </tr>
+    <tr>
+        <th>+7</th>
+        <td>97%</td>
+        <td>90%</td>
+        <td>76%</td>
+        <td>56%</td>
+        <td>34%</td>
+    </tr>
+    <tr>
+        <th>+9</th>
+        <td>99.6%</td>
+        <td>97%</td>
+        <td>90%</td>
+        <td>76%</td>
+        <td>56%</td>
+    </tr>
+</table>
