@@ -22,7 +22,7 @@ Range describes how far away from you the spell's targets can be.
 
 Spells with a Range of Self can target only you. They are not affected by spell enhancements that would increase their Range. They have an Origin: Self.
 
-Spells with a range of Touch can only affect targets adjacent to you, and require physical contact (they thus cannot be used if you can't, for any reason, reach out and touch the target). Touch spells can be thought of as "0 m"; they are affected by enhancements that add range. If their range is increased above zero, they are no longer Touch range.
+Spells with a range of Touch can only affect targets adjacent to you, and require physical contact (they don't require you to use your hands, but do require you to actually touch the target). Touch spells can be thought of as "0 m"; they are affected by enhancements that add range. If their range is increased above zero, they are no longer Touch range.
 
 ### Area
 
