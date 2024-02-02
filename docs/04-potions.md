@@ -2,7 +2,7 @@
 
 ## Using Potions
 
-Characters can drink potions (or give them to others) using the Alchemy skill ability [Administer](/guide/skills/hand/alchemy/#1-administer). The potion is added to their active potion effects. If a character already has its maximum number of active potion effects and would gain another, it first loses the oldest of its currently active effects. Characters normally only have one slot for potion effects; gaining points in Alchemy can increase that limit.
+Characters can drink potions (or give them to others) using the Alchemy skill ability [Administer](/skills/hand/alchemy/#1-administer). The potion is added to their active potion effects. If a character already has its maximum number of active potion effects and would gain another, it first loses the oldest of its currently active effects. Characters normally only have one slot for potion effects; gaining points in Alchemy can increase that limit.
 Characters also lose all active potion effects when they rest.
 
 Potion effects only work while they remain active; their effects disappear when the potion effect ends.

@@ -55,7 +55,7 @@ All languages in your setting will be divided into _common_ and _specialist_ lan
 
 You cannot usually learn specialist languages without at least 5 in Encyclopaedia; if your character is from a foreign country or would otherwise have come into contact with a specialist character before the story starts, ask your Arbiter if it would be appropriate for you to start with a specialist language.
 
-## Example Character: Lysander Bell, Industrialist
+## Example Character: Lysander Bell
 
 Lysander is a relatively balanced character, with a focus on movement and dexterity. He uses firearms to fight, but prefers to avoid fighting where he can. He isn't a smart man, despite his image of himself as a tech genius.
 
