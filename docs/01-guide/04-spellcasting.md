@@ -88,13 +88,17 @@ If a spell doesn't specify a way for an unwilling creature to avoid its effects,
 
 :::
 
-## Detect Magic
+## Magical Signatures
 
-Magic leaves a trace on any objects or creatures affected by it that can be seen with the Detect Magic ability. The traces can be used to identify:
+Magic leaves a signature on any objects or creatures affected by it. These magical signatures can be seen with the Detect Magic ability. They can be used to identify:
 
-- The Art of the magic
-- Whether the magic is still ongoing, or has ended
-- If ended, how long ago the magic ended (to a precision of about an hour; the traces fade completely after 48 hours)
+- The Art of the magic.
+- Whether the magic is still ongoing, or has ended.
+- If ended, how long ago the magic ended.
+
+Magical signatures fade completely 48 hours after the magic ends. When estimating how old signatures are, you can achieve a precision of about an hour (e.g. "within the last hour", "five to six hours ago").
+
+Spells which do not directly affect objects or creatures (e.g. Distortion illusions) do not leave magical signatures.
 
 ## Circle Magic
 
@@ -103,10 +107,10 @@ Circle Magic allows you and your allies to pool your mana to cast more powerful 
 ## Trace Magic
 
 Traces are a kind of permanent spell affecting creatures or objects without requiring concentration.
-Player characters all start with one trace, called Spellcasting, which allows them to cast spells. If they ever lose this trace, they cannot use any of their magic. Spellcasting counts towards their total, leaving most characters with two available traces.
+Player characters all start with one trace, called _Spellcasting_, which allows them to cast spells. If they ever lose this trace, they cannot use any of their magic. _Spellcasting_ counts towards their total, leaving most characters with two available traces.
 
 - Creatures may hold a maximum of three traces at once.
-- All player characters start with the Spellcasting _trace_, which allows them to perform magic, and counts towards their limit.
+- All player characters start with the _Spellcasting_ trace, which allows them to perform magic, and counts towards their limit.
 
 Objects can be affected by between one and three traces, depending on their make-up:
 
