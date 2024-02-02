@@ -14,7 +14,7 @@ When you cast a spell, you may choose to apply any or all spell enhancements you
 
 ### Affecting Things
 
-When you cast a spell, it affects certain things (e.g. creatures, objects, or a area of space). Spells can't cause negative effects to creatures that they don't affect (and unwilling creatures will always be able to roll to avoid being affected by spells).
+When you cast a spell, it affects certain things (e.g. creatures, objects, or an area of space). Spells can't cause negative effects to creatures that they don't affect (and unwilling creatures will always be able to roll to avoid being affected by spells).
 
 ### Range
 
