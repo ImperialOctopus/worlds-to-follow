@@ -69,5 +69,5 @@ speed="attack"
 title="Start Sequence Interference"
 subtitle="Spellbreak spell"
 parameters={["Speed: Attack.", "Range: 10 m.", "Target: Creature.", "Cost: 3.", "Concentration."]}>
-Any _traces_ the affected creature has (except Spellcasting) become inactive until this spell ends. Affect an unwilling creature by rolling Personal Reality.
+Any traces the affected creature has (except _Spellcasting_) become inactive until this spell ends. Affect an unwilling creature by rolling Personal Reality.
 </AbilityCard>

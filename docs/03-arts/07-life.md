@@ -137,7 +137,7 @@ You gain the following benefits:
 
 - You can see and hear from the container, and gain the senses of anyone holding it.
 - You can mentally communicate with anyone holding the container (this is affected by your Contact spell modifiers).
-- If your body falls unconscious or dies, your soul remains in the container, and you remain conscious. In this state, you cannot use any traces in your body, including Spellcasting. You retain your skills and abilities, but cannot use any actions granted by your abilities. If your body is ever sufficiently repaired, you can return to it.
+- If your body falls unconscious or dies, your soul remains in the container, and you remain conscious. In this state, you cannot use any traces in your body, including _Spellcasting_. You retain your skills and abilities, but cannot use any actions granted by your abilities. If your body is ever sufficiently repaired, you can return to it.
 - You do not feel pain or fatigue.
 
 You also gain the following negative effects:

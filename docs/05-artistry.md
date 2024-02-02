@@ -25,7 +25,7 @@ When you're applying your Artistry to new situations, however, skill rolls will 
 
 As Arbiter, if you think a character's Artistry proficiency is helpful to something they're doing, you should either reduce the roll's difficulty or provide some other benefit to using the Artistry (e.g. more information than they could have gotten with the skill roll alone).
 
-For example, a character with proficiency in Jewellery examining a lump of amber would trivially notice details in its appearance that an untrained character may only see with a very high Precision roll; instead, you might ask for an Arcane roll for them to notice signs of a hidden magical _trace_. A chararacter using their Leatherworking proficiency to improvise restraints for an apprehended suspect may only have to roll World vs. 9, rather than World vs. 15.
+For example, a character with proficiency in Jewellery examining a lump of amber would trivially notice details in its appearance that an untrained character may only see with a very high Precision roll; instead, you might ask for an Arcane roll for them to notice signs of a hidden magical trace. A chararacter using their Leatherworking proficiency to improvise restraints for an apprehended suspect may only have to roll World vs. 9, rather than World vs. 15.
 
 ## Artistries List
 
