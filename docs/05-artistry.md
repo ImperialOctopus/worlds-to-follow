@@ -12,7 +12,7 @@ Artistries most straightforwardly give your character things to do during downti
 
 ## Rolling Skills
 
-When you try and do something covered by an Artistry you're proficient with, most of the time there is no need to roll. If you've gone through culinary school, or spent years training as a painter, you're going to succeed almost all of the time when you attempt things you've practiced. Producing something of unusual quality is generally going to require more time, rather than more dice luck.
+When you try to do something covered by an Artistry you're proficient with, most of the time there is no need to roll. If you've gone through culinary school, or spent years training as a painter, you're going to succeed almost all of the time when you attempt things you've practiced. Producing something of unusual quality is generally going to require more time, rather than more dice luck.
 
 When you're applying your Artistry to new situations, however, skill rolls will generally be called for. Do not feel limited to using only Expression for these. Your Artistry proficiency _allows you to try_, but your scores in skills relevant to _how you're trying_ are important for success.
 
