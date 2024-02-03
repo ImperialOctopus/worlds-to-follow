@@ -56,7 +56,7 @@ You cannot cast spells. Any numerals listed in your potion effects are doubled. 
 
 <AbilityCard
 speed="enhancement"
-title="Field Alchemist"
+title="Golden Blood"
 subtitle="Enhancement">
 Your maximum number of active potions increases to four. When you rest, you may choose one active potion to keep.
 </AbilityCard>
