@@ -12,13 +12,13 @@ Compared to some other TTRPG systems, this one comes with very little assumed _w
 
 ## Session Zero
 
-A session zero is a chat that your group has about an upcoming game that you have before actually starting it. They help get everyone on the same page about the game, and set up the game's boundaries.
+A session zero is a chat that your group has about an upcoming game that you have before actually starting it. They help get everyone on the same page about the game and set up the game's boundaries.
 
 Consider following this checklist for your session zero:
 
 ### World
 
-- Introduce the world
+- Introduce the world.
   - Important locations and factions.
   - Genre and tone (e.g. gritty western, silly sci-fi).
 - The player characters' place in the world.

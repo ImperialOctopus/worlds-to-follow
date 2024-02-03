@@ -2,7 +2,7 @@
 
 ## Skill Rolls
 
-Players should propose rolls when their characters take actions outside of the normal; they explain the action they wish their character to take, and suggest an applicable skill. The Arbiter has final say on what skills are appropriate, and decides the difficulty of the roll. Some rolls are called for by the Arbiter (e.g. observe details about the environment or resist the effects of a spell).
+Players should propose rolls when their characters take actions outside of the normal; they explain the action they wish their character to take, and suggest an applicable skill. The Arbiter has final say on what skills are appropriate and decides the difficulty of the roll. Some rolls are called for by the Arbiter (e.g. observe details about the environment or resist the effects of a spell).
 
 :::warning Key Point
 

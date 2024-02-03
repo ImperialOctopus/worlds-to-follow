@@ -18,7 +18,9 @@ For example, a character with 3 Endurance (and only one potion slot) drinks a po
 
 ## Creating Potions
 
-To create potions, you must know the formula for the potion you're creating, and must use the Potion Engineering action gained from the Alchemy skill. Each formula has a level, specified below the name. You can only make potions from formulae with levels that are equal to or less than your Alchemy. You can make as many of each potion as you like, you and your allies can all hold as many brewed potions as you like, and brewed potions remain usable forever.
+Creating potions requires the Potion Engineering action gained from the Alchemy skill. You can only create potions that you have the formula for (also gained from the Alchemy skill). Each formula has a level, specified below the name. You can only make potions from formulae with levels that are equal to or less than your Alchemy.
+
+You can make as many of each potion as you like, you and your allies can all hold as many brewed potions as you like, and brewed potions remain usable forever.
 
 :::info Advice
 

@@ -1,11 +1,12 @@
 # Creating a Character
 
-Creating a character in this game requires the following decisions:
+Creating a character in this game requires the following:
 
 - Assigning skill points, and choosing your signature skill.
 - Choosing your starting [Arts](/arts).
 - Choosing any [Potion Formulae](/potions), [Artistries](/artistry), and [Metamagic](/metamagic) you might start with.
-- Choosing any languages you start with, and other setting-dependent decisions (e.g. place of origin, occupation).
+- Choosing any languages that you start with.
+- Making other setting-dependent decisions (e.g. place of origin, occupation).
 
 ## Skills
 
@@ -18,7 +19,7 @@ Skills are divided into four categories:
 
 Each character starts with 12 points to distribute as they like between these four categories, representing the lessons learned in their life before the story begins. Each skill starts at a level equal to the category's score.
 
-Each category must have a minimum of 1 point, and has a maximum of 5.
+Each category must have at least one point, and can have at most five.
 
 ### Signature Skill
 

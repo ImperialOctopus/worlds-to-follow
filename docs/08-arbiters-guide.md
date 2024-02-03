@@ -8,7 +8,7 @@ This page contains (what I think is) helpful advice for someone running a game o
 
 ## Skill Points
 
-Player characters grow by gaining skill points. How exactly they get them, and how often, are a very important question to answer for your world. If you want to give out skill points over time, use the following guidelines:
+Player characters grow by gaining skill points. How exactly they get them, and how often, are an important question to answer for your world. If you want to give out skill points over time, use the following guidelines:
 
 - Fast: 2 skill points per session, 1 bonus point per character.
 - Medium: 1 skill point per session, 1 bonus point per 2 characters.
@@ -16,7 +16,7 @@ Player characters grow by gaining skill points. How exactly they get them, and h
 
 If you don't want to tie character progression to real-life sessions, consider either only allowing characters to spend skill points when they rest, or just give skill points when you finish short story arcs in-game.
 
-I suggest you also give out bonus skill points to players who make particularly interesting or character-ful decisions (similar to _Inspiration_ from D&D 5e). Choose an approximate number of skill points to give out per session (split between the whole party). I suggest:
+I suggest you also give out bonus skill points to players who make particularly interesting or characterful decisions (similar to _Inspiration_ from D&D 5e). Choose an approximate number of skill points to give out per session (split between the whole party). I suggest:
 
 - Fast: 1 bonus point per player per session.
 - Medium: 1 bonus point per two players per session.
@@ -54,7 +54,7 @@ In this game, spells can do ANYTHING thematically, so long as they hold to the s
 
 If you choose to base your new spell on an effect that can already be created with magic, use the following guidelines:
 
-- Start with any base spell, and include any applicable modifiers within the same Art (regardless of prerequisites).
+- Start with any base spell, including any applicable modifiers within the same Art (regardless of prerequisites).
 - If it requires concentration, then it still does.
 - If it has a fixed Mana cost, consider lowering the cost (by 1 or 2).
 - If it has a variable Mana cost, consider increasing the base effect (e.g. 2 + Xm becomes 5 + Xm); increasing the scaling may start to break reality at high Mana utilisation.
@@ -63,7 +63,7 @@ If you choose to base your new spell on an effect that can already be created wi
 If you choose to create an entirely new spell, use the following guidelines:
 
 - Make it cool.
-- Your objective is to create a spell that's interesting enough that _when you use it, people remember it_; not to create a spell so powerful that you want use it every turn (if you want power, use the other option!).
+- Your objective is to create a spell that's interesting enough that _when you use it, people remember it_; not to create a spell so powerful that you want to use it every turn (if you want power, use the other option!).
 - Don't be afraid to come back later and change details if the spell you make isn't a good fit. Your other players are your guinea pigs (...in a good way).
 
 I recommend, regardless of whatever you choose, that you stick to some basic rules regarding magic:

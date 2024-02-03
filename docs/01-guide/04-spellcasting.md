@@ -8,7 +8,7 @@ Each Art contains at least one spell that you automatically gain when you learn 
 
 ### Using Spell Enhancements
 
-When you cast a spell, you may choose to apply any or all spell enhancements you know that apply to it. You choose when you cast the spell, and can choose different enhancements whenever you cast it. These can dramatically change what your spells are capable of.
+You may choose to apply any or all spell enhancements you know each time you cast a spell. These can dramatically change what your spells are capable of.
 
 ## Spell Mechanics
 
@@ -41,7 +41,7 @@ Area shapes extend as follows:
 
 #### Origin
 
-Areas have an Origin: the point in space where they starts from. Area spells might originate from a Creature or Object; if they do, the Origin (and Area) move with that creature or object. If the Origin is a Point, it doesn't move.
+Areas have an Origin: the point in space where they start from. Area spells might originate from a Creature or Object; if they do, the Origin (and Area) move with that creature or object. If the Origin is a Point, it doesn't move.
 
 - If a spell has Range: Self, its Origin is Creature (so it moves with you).
 - If a spell doesn't specify a type of Origin (and it isn't Range: Self), it's Point (a point in space).
@@ -69,7 +69,7 @@ If a spell description doesn't list a cost, its cost is zero.
 
 #### Ongoing Spells
 
-If you're concentrating on a spell, you must pay its mana cost on each of your turns. This happens just after you gain your mana for the turn. If the spell had a variable cost, use the same value that you paid when you cast it every turn. If you don't have enough mana to pay in full (for example, if your Energetics has been reduced since you cast the spell), you don't pay anything and the spell immediately ends.
+If you're concentrating on a spell, you must pay its mana cost on each of your turns. This happens just after you gain your mana for the turn. If the spell had a variable cost, use the same value that you paid when you cast it every turn. If you don't have enough mana to pay in full (for example, if your Energetics has been reduced since you cast the spell), you don't pay anything, and the spell immediately ends.
 
 ### Concentration
 
@@ -93,7 +93,7 @@ If a spell doesn't specify a way for an unwilling creature to avoid its effects,
 Magic leaves a signature on any objects or creatures affected by it. These magical signatures can be seen with the _Detect Magic_ ability. They can be used to identify:
 
 - The Art of the magic.
-- Whether the magic is still ongoing, or has ended.
+- Whether the magic is still ongoing or has ended.
 - If ended, how long ago the magic ended.
 
 Magical signatures fade completely 48 hours after the magic ends. When estimating how old signatures are, you can achieve a precision of about an hour (e.g. "within the last hour", "five to six hours ago").
@@ -131,7 +131,7 @@ Spells traced into objects do not become inactive; they simply disappear if thei
 
 ### Trace Mana Cost
 
-Traced spells do not consume mana the same way concentration spells do: instead, they each reduce your Energetics by their cost. Traced spells with variable cost keep the same value for X that they were cast with. This reduction cannot be avoided or removed, except by removing the trace. You still use your base Energetics for accessing skill abilities or spell enhancements, just like other temporary stat reductions.
+Traced spells do not consume mana the same way concentration spells do. Instead, each traced spell you have reduces your Energetics by its cost. Traced spells with variable cost keep the same value for X that they were cast with. This reduction cannot be avoided or removed, except by removing the trace. You still use your base Energetics for accessing skill abilities or spell enhancements, just like other temporary stat reductions.
 
 :::note Summary
 
