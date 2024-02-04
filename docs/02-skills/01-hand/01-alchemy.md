@@ -20,7 +20,9 @@ speed="action"
 title="Administer"
 subtitle="Mundane ability"
 parameters={["Speed: Action.", "Range: Touch.", "Target: Creature."]}>
-Affect an unwilling creature with Alchemy vs. Endurance. Choose a potion in your possession to administer; the potion is consumed, even if it fails to affect the creature. The creature gains the potion's effect. If the creature already has its maximum number of active potions, it loses one of its choice before gaining the new effect (if the creature was unwilling, it instead loses the oldest).
+Choose a potion in your possession to administer to the affected creature. The creature gains the potion's effect. If the creature already has its maximum number of active potions, it loses one of its choice before gaining the new effect.
+
+You can try to affect an unwilling creature with Alchemy vs. Endurance. The potion is still consumed even if you fail. If the potion you administer replaces an existing potion effect it loses the oldest effect instead of one of its choice.
 </AbilityCard>
 
 ## 3: Potion Engineering
@@ -30,7 +32,7 @@ speed="ritual"
 title="Potion Engineering"
 subtitle="Mundane ability"
 parameters={["Speed: Ritual."]}>
-Create a potion from a potion formula you know (with a maximum level of your Alchemy). You learn two sets of potion formulae from the Potion Formulae list, and gain one extra when you reach 5, 7, and 9 Alchemy.
+Create a potion from a potion formula you know (with a maximum level of your Alchemy). You learn two potion sets from the Potion Formulae list, and gain one extra potion set of your choice when you reach 5, 7, and 9 Alchemy.
 </AbilityCard>
 
 ## 5: Field Alchemist
@@ -39,7 +41,7 @@ Create a potion from a potion formula you know (with a maximum level of your Alc
 speed="enhancement"
 title="Field Alchemist"
 subtitle="Enhancement">
-Your maximum number of active potions increases to two. While you have at least two active potion effects, add 1 to all of your Hand skill rolls.
+You have two active potion slots. While at least two of your potion slots are filled, add 1 to all of your Hand skill rolls.
 </AbilityCard>
 
 ## 7: Red Work
@@ -49,7 +51,7 @@ speed="action"
 title="Red Work"
 subtitle="Mundane ability"
 parameters={["Speed: Action.", "Concentration"]}>
-You cannot cast spells. Any numerals listed in your potion effects are doubled. When this ends, lose one random active potion.
+You cannot cast spells. Any numerals listed in the effects of potions affecting you are doubled. When this ends, lose one random active potion.
 </AbilityCard>
 
 ## 9: Golden Blood
@@ -58,5 +60,5 @@ You cannot cast spells. Any numerals listed in your potion effects are doubled. 
 speed="enhancement"
 title="Golden Blood"
 subtitle="Enhancement">
-Your maximum number of active potions increases to four. When you rest, you may choose one active potion to keep.
+You have four active potion slots. When you rest, you may choose one active potion to keep.
 </AbilityCard>

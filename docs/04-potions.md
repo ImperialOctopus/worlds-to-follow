@@ -2,8 +2,10 @@
 
 ## Using Potions
 
-Characters can drink potions (or give them to others) using the Alchemy skill ability [Administer](/skills/hand/alchemy/#1-administer). The potion is added to their active potion effects. If a character already has its maximum number of active potion effects and would gain another, it first loses the oldest of its currently active effects. Characters normally only have one slot for potion effects; gaining points in Alchemy can increase that limit.
-Characters also lose all active potion effects when they rest.
+Characters can drink potions (or give them to others) using the Alchemy skill ability [Administer](/skills/hand/alchemy/#1-administer).
+
+Characters normally only have one slot for potion effects; gaining points in Alchemy can increase that limit.
+Characters lose all active potion effects when they rest.
 
 Potion effects only work while they remain active; their effects disappear when the potion effect ends.
 
@@ -14,7 +16,8 @@ For example, a character with 3 Endurance (and only one potion slot) drinks a po
 - You have one potion slot, which drinking a potion fills.
 - Potion effects are all continuous; they go away when replaced.
 - Drinking a new potion replaces your current one.
-  :::
+
+:::
 
 ## Creating Potions
 
@@ -30,7 +33,7 @@ In the [Arbiter's Guide](/arbiters-guide#potion-brewing-and-money-making), I sug
 
 ## Potion Formulae
 
-You learn two sets of potion formulae of your choice when you reach 3 Alchemy, and one extra when you reach 5, 7, and 9 Alchemy. You learn all the formulae from the sets you choose, but you can only create potions from formulae up to your Alchemy in level.
+You learn two sets of potion formulae of your choice when you reach 3 Alchemy, and one extra set when you reach 5, 7, and 9 Alchemy. You learn all the formulae from the sets you choose, but you can only create potions from formulae up to your Alchemy in level.
 
 ### Support
 
@@ -144,7 +147,7 @@ These advanced potions provide powerful effects to disable your opponents.
 <PotionCard
   strength = {5}
   title = "Neutralising Spirit"
-  effect = "Your other potion effects do not apply." />
+  effect = "Your other potion effects are suppressed. They still count as active potion effects, and take up a slot, but have no effect." />
 
 <PotionCard
   strength = {7}
