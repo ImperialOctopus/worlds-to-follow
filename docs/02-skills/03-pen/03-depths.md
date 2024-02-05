@@ -35,7 +35,7 @@ You can have one more active Trace.
 
 When you reach 5 Depths, choose a path:
 
-- Open Heart
+- Open Book
 - Thorny Thoughts
 
 You gain different skill abilities depending on your path.
