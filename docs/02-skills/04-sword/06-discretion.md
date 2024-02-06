@@ -45,7 +45,7 @@ If you act first in the first round of combat, your first attack that turn deals
 speed="reaction"
 title="Chameleon"
 subtitle="Mundane ability"
-parameter={["Speed: Reaction.", "Range: 5 m.", "Target: Creature."]}>
+parameters={["Speed: Reaction.", "Range: 5 m.", "Target: Creature."]}>
 Reaction when you are targeted by an ability or spell. Change its target to the affected creature.
 </AbilityCard>
 
