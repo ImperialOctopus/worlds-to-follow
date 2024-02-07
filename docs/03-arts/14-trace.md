@@ -1,6 +1,6 @@
 # Trace
 
-The foundation of modern magic. Burn magic into wood, stone, and flesh.
+The foundation of modern magic. Burn magic into wood, stone, and skin.
 
 ## Trace
 
