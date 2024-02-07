@@ -140,6 +140,8 @@ When you cast a spell that targets creatures, you may target creatures linked to
 
 ## Commune
 
+_Prerequisite: Spirituality 2_
+
 <AbilityCard
 speed="action"
 title="Commune"
@@ -156,6 +158,8 @@ The being has knowledge of:
 
 ### Keeper of Names
 
+_Prerequisite: Spirituality 6_
+
 <AbilityCard
 speed="enhancement"
 title="Keeper of Names"
@@ -167,6 +171,8 @@ When you cast Commune, the entity you contact has knowledge of:
 </AbilityCard>
 
 ### Unwinder of Threads
+
+_Prerequisite: World 6_
 
 <AbilityCard
 speed="enhancement"
@@ -180,6 +186,8 @@ When you cast Commune, the entity you contact has knowledge of:
 
 ### Curator of Wisdom
 
+_Prerequisite: Encyclopaedia 6_
+
 <AbilityCard
 speed="enhancement"
 title="Curator of Wisdom"
@@ -192,6 +200,8 @@ When you cast Commune, the entity you contact has knowledge of:
 </AbilityCard>
 
 ### Contact Outsider
+
+_Prerequisite: Depths 4_
 
 <AbilityCard
 speed="action"
