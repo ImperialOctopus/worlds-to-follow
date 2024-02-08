@@ -108,7 +108,7 @@ _Prerequisite: Presence 8_
 speed="enhancement"
 title="Diadem"
 subtitle="Spell enhancement">
-When you cast Revoke Will, you do not need to concentrate. The spell is immediately _traced_ into the affected creature, without rendering the creature helpless. It does not count against its maximum number of _traces_, and its cost is zero.
+When you cast Revoke Will, you do not need to concentrate. The spell is immediately traced into the affected creature, without rendering the creature helpless. It does not count against its maximum number of traces, and its cost is zero.
 </AbilityCard>
 
 ## Enchant
