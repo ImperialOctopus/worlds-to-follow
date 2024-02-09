@@ -88,7 +88,7 @@ When you hit with a Transposition attack, you may choose to forego damage in ord
 
 ### Parallel Processing
 
-_Prerequisite: Visualisation 2, Visualisation 8_
+_Prerequisite: Visualisation 8_
 
 <AbilityCard
 speed="enhancement"

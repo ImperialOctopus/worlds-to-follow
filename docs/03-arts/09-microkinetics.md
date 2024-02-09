@@ -20,7 +20,7 @@ The patch may:
 
 ### Elementalist
 
-Personal Reality 2
+_Prerequisite: Personal Reality 2_
 
 <AbilityCard
 speed="action"
@@ -37,7 +37,7 @@ You create any of the following effects in the affected area:
 
 ### Molecular Motion
 
-Personal Reality 4
+_Prerequisite: Personal Reality 4_
 
 <AbilityCard
 speed="enhancement"
@@ -52,7 +52,7 @@ When you hit an object or helpless creature with an attack, you may:
 
 ## Black Arrow
 
-Precision 2
+_Prerequisite: Precision 2_
 
 <AbilityCard
 speed="attack"
@@ -64,7 +64,7 @@ Attack with Precision vs Reflexes.
 
 ### Plasma Theory
 
-Precision 2, Energetics 4
+_Prerequisite: Precision 2, Energetics 4_
 
 <AbilityCard
 speed="enhancement"
@@ -75,7 +75,7 @@ Your magic attacks that use Precision may use Energetics instead. The target def
 
 ### Electromotor Effect
 
-Precision 2, Encyclopaedia 4
+_Prerequisite: Precision 2, Encyclopaedia 4_
 
 <AbilityCard
 speed="enhancement"
@@ -86,7 +86,7 @@ When you cast a Microkinetics spell or attack, you may spend Y mana to increase 
 
 ### Overchannel
 
-Precision 2, Presence 4
+_Prerequisite: Precision 2, Presence 4_
 
 <AbilityCard
 speed="enhancement"
@@ -97,7 +97,7 @@ When you hit with a Microkinetics attack, you may spend at least 1 extra mana (Y
 
 ### Disintegrate
 
-Precision 2, Presence 8
+_Prerequisite: Precision 2, Presence 8_
 
 <AbilityCard
 speed="enhancement"
@@ -112,7 +112,7 @@ When you cast a Microkinetics attack, spend at least 3 mana (including spell enh
 
 ## Impulsion
 
-Alchemy 2
+_Prerequisite: Alchemy 2_
 
 <AbilityCard
 speed="action"
@@ -124,7 +124,7 @@ Affected creature's speed is increased by (X + 2) × 1 m.
 
 ### Static Cling
 
-Alchemy 4
+_Prerequisite: Alchemy 4_
 
 <AbilityCard
 speed="enhancement"
@@ -135,7 +135,7 @@ When you cast Impulsion, if X is at least 2, affected creatures can climb.
 
 ### Improvised Gravity Compensation
 
-Alchemy 6
+_Prerequisite: Alchemy 6_
 
 <AbilityCard
 speed="enhancement"
@@ -146,7 +146,7 @@ When you cast Impulsion, if X is at least 4, affected creatures can fly.
 
 ### Kinetic Dampening
 
-Alchemy 2, Awareness 4
+_Prerequisite: Alchemy 2, Awareness 4_
 
 <AbilityCard
 speed="reaction"
@@ -158,7 +158,7 @@ Cast as a reaction when a creature within range falls. Affected creature safely 
 
 ### Prism
 
-Alchemy 2, Visualisation 6
+_Prerequisite: Alchemy 2, Visualisation 6_
 
 <AbilityCard
 speed="enhancement"
@@ -169,7 +169,7 @@ When you cast a Microkinetics spell or attack that targets a single creature or 
 
 ## Explosion
 
-Energetics 4
+_Prerequisite: Energetics 4_
 
 <AbilityCard
 speed="attack"
@@ -181,7 +181,7 @@ You must spend all your remaining mana on this spell. Attack every creature in t
 
 ### Photoshock
 
-Energetics 4, Discretion 6
+_Prerequisite: Energetics 4, Discretion 6_
 
 <AbilityCard
 speed="enhancement"
@@ -192,7 +192,7 @@ When you cast Explosion Magic, affected creatures cannot see until the start of 
 
 ### Energy Storm
 
-Energetics 8
+_Prerequisite: Energetics 8_
 
 <AbilityCard
 speed="attack"
