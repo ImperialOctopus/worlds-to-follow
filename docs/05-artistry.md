@@ -164,7 +164,7 @@ Basic:
 Advanced:
 
 - Recognise a specific gem with political importance.
-- Notice magically _traced_ jet or amber hidden in an item of jewellery.
+- Notice magically trace jet or amber hidden in an item of jewellery.
 
 ### Leatherworking
 

@@ -94,7 +94,7 @@ speed="ritual"
 title="Create Manasteel"
 subtitle="Transformation spell"
 parameters={["Speed: Ritual.", "Range: Touch.", "Target: Object.", "Cost: 6."]}>
-You modify the structure of an object, making it more able to support magical traces. The object is permanently altered to be able to hold two _traces_.
+You modify the structure of an object, making it more able to support magical traces. The object is permanently altered to be able to hold two trace.
 </AbilityCard>
 
 ### Create Amberwood
@@ -106,7 +106,7 @@ speed="ritual"
 title="Create Amberwood"
 subtitle="Transformation spell"
 parameters={["Speed: Ritual.", "Range: Touch.", "Target: Object.", "Cost: 12."]}>
-You modify the structure of an object, making it more able to support magical traces. The object is permanently altered to be able to hold three _traces_.
+You modify the structure of an object, making it more able to support magical traces. The object is permanently altered to be able to hold three trace.
 </AbilityCard>
 
 ## Animal Skin

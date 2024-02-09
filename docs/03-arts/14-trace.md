@@ -9,11 +9,11 @@ speed="ritual"
 title="Trace"
 subtitle="Trace spell"
 parameters={["Speed: Ritual.", "Range: Touch.", "Target: Creature or Object.", "Cost: 2."]}>
-Choose one Concentration spell currently affecting the affected creature or object. The spell's cost must be equal to or less than your Expression. That spell becomes a _trace_, persisting without concentration. It keeps all the spell modifiers and skill ability effects that it had when first cast. Traced spells do not cost mana the same way concentration spells do; see the Guide for trace cost rules.
+Choose one Concentration spell currently affecting the affected creature or object. The spell's cost must be equal to or less than your Expression. That spell becomes a trace, persisting without concentration. It keeps all the spell modifiers and skill ability effects that it had when first cast. Traced spells do not cost mana the same way concentration spells do; see the Guide for trace cost rules.
 
 Anything about the spell that could be changed by the caster while concentrating must be pre-programmed when you cast this (e.g. the appearance of an illusion, or the size of a fire). The decision-making of the trace can be as complex as you can define, and may use any audio or visual information available to the traced object. If you trace a creature, any information about the creature (including its thoughts) may be used. You may also specify conditions under which the spell ends.
 
-You cannot add a new trace to something which already has its maximum; one must be removed first. See the Guide for advice on how many _traces_ different objects can hold.
+You cannot add a new trace to something which already has its maximum; one must be removed first. See the Guide for advice on how many trace different objects can hold.
 
 After this spell adds a trace to a creature, that creature is rendered helpless until it next rests. While helpless in this way, it cannot gain more traces from this spell.
 </AbilityCard>
@@ -112,7 +112,7 @@ title="Unlimited Spellcasting"
 subtitle="Trace spell"
 parameters={["Speed: Action.", "Range: Touch.", "Target: Creature.", "Cost: 5.", "Concentration."]}>
 Affected creature gains the ability to cast spells. It must gain magical Arts separately (i.e. from its level in Arcane).
-If this spell is _traced_, it produces the _Spellcasting_ trace that all player characters start with. It costs zero, and cannot be removed or suppressed by most means.
+If this spell is trace, it produces the _Spellcasting_ trace that all player characters start with. It costs zero, and cannot be removed or suppressed by most means.
 </AbilityCard>
 
 ## Trace-Out
@@ -124,5 +124,5 @@ speed="action"
 title="Trace-Out"
 subtitle="Trace spell"
 parameters={["Speed: Action.", "Range: Touch.", "Target: Creature or Object.", "Cost: 4."]}>
-You remove a single _trace_ of your choice from the affected creature or object. Affect an unwilling creature with Personal Reality. You must be aware of a _trace_ to attempt to remove it; you can sense it with Information magic, or simply see it used. This spell cannot remove the _Spellcasting_ trace from an unwilling creature.
+You remove a single trace of your choice from the affected creature or object. Affect an unwilling creature with Personal Reality. You must be aware of a trace to attempt to remove it; you can sense it with Information magic, or simply see it used. This spell cannot remove the _Spellcasting_ trace from an unwilling creature.
 </AbilityCard>

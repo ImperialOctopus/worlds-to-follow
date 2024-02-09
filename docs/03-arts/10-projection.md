@@ -18,7 +18,7 @@ The object may:
 - Be either mobile, or fixed in place.
 - Be any weight, ranging in density from air to stone.
 
-The object cannot be damaged or broken. It cannot cause damage to anything by itself (e.g. by falling), but could be used by a creature for an attack if appropriate (e.g. a sword). The object is not real, and can't hold _traces_.
+The object cannot be damaged or broken. It cannot cause damage to anything by itself (e.g. by falling), but could be used by a creature for an attack if appropriate (e.g. a sword). The object is not real, and can't hold trace.
 
 Especially complicated objects may require an Expression roll.
 </AbilityCard>
@@ -81,7 +81,7 @@ The created object may be:
 - A piece of clothing or armour.
 - A weapon, tool, or piece of equipment that can be held in one or both hands.
 
-Created objects can be made of any material, but are not real, and cannot hold _traces_.
+Created objects can be made of any material, but are not real, and cannot hold trace.
 </AbilityCard>
 
 ### Unnatural Edge

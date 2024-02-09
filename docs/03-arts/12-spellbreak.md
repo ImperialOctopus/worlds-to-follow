@@ -46,7 +46,7 @@ speed="action"
 title="Suppression Field"
 subtitle="Spellbreak spell"
 parameters={["Speed: Action.", "Range: Self.", "Area: Sphere (5 m).", "Cost: 5.", "Concentration."]}>
-Creatures within the affected area cannot cast spells, or concentrate on spells (except Suppression Field). Spells cast from outside cannot target anything within the area, and their effects cannot extend into or pass through the area. This spell does not affect _traced_ magic at all.
+Creatures within the affected area cannot cast spells, or concentrate on spells (except Suppression Field). Spells cast from outside cannot target anything within the area, and their effects cannot extend into or pass through the area. This spell does not affect trace magic at all.
 </AbilityCard>
 
 ### Permissive Suppression

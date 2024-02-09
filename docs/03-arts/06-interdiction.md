@@ -87,7 +87,7 @@ You gain an alternate way of casting Protection Circle. This version has the fol
 
 - Speed: Ritual.
 - Cost: 0.
-- When the spell is cast, it's _traced_ into the ground, persisting without concentration.
+- When the spell is cast, it's trace into the ground, persisting without concentration.
 - As part of casting this spell, you outline the affected area on the ground in chalk (or another similar material); if the circle is broken (takes at most an action by any creature adjacent to it) the spell ends.
 
 </AbilityCard>

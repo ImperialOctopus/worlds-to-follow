@@ -97,7 +97,7 @@ _Prerequisite: Endurance 4_
 speed="enhancement"
 title="Burial Rites"
 subtitle="Spell enhancement">
-When you cast Repair and target the remains of a creature, you halt decomposition for 24 hours. This can be detected or removed as a _trace_ on the remains, but doesn't count towards _trace_ limits or cost any mana.
+When you cast Repair and target the remains of a creature, you halt decomposition for 24 hours. This can be detected or removed as a trace on the remains, but doesn't count towards trace limits or cost any mana.
 </AbilityCard>
 
 ### Kintsugi
@@ -147,7 +147,7 @@ You also gain the following negative effects:
 - If the object is destroyed, you die.
 
 You can adopt any soulless body within 100 m of the container as your own, leaving your original body soulless.
-If you _trace_ this spell, it must be traced into the object instead of your body. Spells active on you may be traced into the object instead of your body, and any traces active on the object affect you.
+If you trace this spell, it must be traced into the object instead of your body. Spells active on you may be traced into the object instead of your body, and any traces active on the object affect you.
 </AbilityCard>
 
 ## Puppet
@@ -173,8 +173,8 @@ title="Create Undead"
 subtitle="Life spell"
 parameters={["Speed: Ritual.", "Range: Touch.", "Target: Object.", "Cost: 3.", "Concentration."]}>
 Target object must be the remains of a dead creature. This spell turns the affected object into an undead creature which remains affected by this spell; when the spell ends, the creature immediately dies.
-The created undead can see and hear, but cannot speak. It has half your Medicine (rounded up) in every skill, and retains nothing from when it was alive (e.g. memories, _traces_).
-The created undead obeys your commands. If this spell is _traced_ you lose control of the undead.
+The created undead can see and hear, but cannot speak. It has half your Medicine (rounded up) in every skill, and retains nothing from when it was alive (e.g. memories, trace).
+The created undead obeys your commands. If this spell is trace you lose control of the undead.
 </AbilityCard>
 
 ### Gift of Servitude
@@ -185,7 +185,7 @@ _Prerequisite: Arcane 4, Presence 6_
 speed="enhancement"
 title="Gift of Servitude"
 subtitle="Spell enhancement">
-When you _trace_ Create Undead into a creature you created with the spell, you can choose for it to remain under your control. You can have a number of creatures under your control in this way equal to half your Presence (rounded up).
+When you trace Create Undead into a creature you created with the spell, you can choose for it to remain under your control. You can have a number of creatures under your control in this way equal to half your Presence (rounded up).
 </AbilityCard>
 
 ### Thrall Rush

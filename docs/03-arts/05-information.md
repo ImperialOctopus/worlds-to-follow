@@ -80,7 +80,7 @@ _Prerequisite: Arcane 4_
 speed="enhancement"
 title="Circuit Mapping"
 subtitle="Spell enhancement">
-When you cast Read Record or Identify, you may learn any active _traces_ affecting the target.
+When you cast Read Record or Identify, you may learn any active traces affecting the target.
 </AbilityCard>
 
 ### Sensor

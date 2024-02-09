@@ -124,7 +124,7 @@ _Prerequisite: Presence 4, Arcane 4_
 speed="enhancement"
 title="Telepathic Bond"
 subtitle="Spell enhancement">
-While concentrating on Telepathy, you may set up a temporary _trace_ as an action. All affected creatures must be willing. The spell becomes _traced_ on all affected creatures, without rendering them helpless. When _traced_ in this manner, its cost is zero. Any affected creature may dismiss the _trace_ at any time, dismissing it on all affected creatures.
+While concentrating on Telepathy, you may set up a temporary trace as an action. All affected creatures must be willing. The spell becomes trace on all affected creatures, without rendering them helpless. When trace in this manner, its cost is zero. Any affected creature may dismiss the trace at any time, dismissing it on all affected creatures.
 </AbilityCard>
 
 #### Arcane Tunnelling
