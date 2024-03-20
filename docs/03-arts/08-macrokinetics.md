@@ -9,9 +9,9 @@ speed="action"
 title="Telekinetic Grasp"
 subtitle="Macrokinetics spell"
 parameters={["Speed: Action.", "Range: 20 m.", "Target: Creature or Object.", "Cost: X.", "Concentration."]}>
-You magically lift and move the affected creature or object. Affect an unwilling creature by rolling Reason vs. its Prowess. The target can have a maximum mass of 10^X kg.
+You magically lift and move the affected creature or object. The target can have a maximum mass of 10^X kg. Affect an unwilling creature by rolling Reason vs. its Prowess. If you affect an unwilling creature, this spell ends on it at the end of its turn.
 
-The affected creature or object does not fall because of gravity, and its speed cannot exceed zero. When you cast this spell, you can move it up to 10 m in any direction. You can only concentrate on this spell until the end of your next turn after you cast it. If you affect an unwilling creature, it can use an action to resist; it rolls Prowess vs. your Reason, ending this spell if it wins.
+The affected creature or object does not fall because of gravity, and affected creatures' speeds cannot exceed zero. You can impart some movement to the affected creature or object in a direction of your choice. In initiative, you can move it up to 10 m per round (on your turn). Outside of initiative, it can move up to X × 1 m per second.
 </AbilityCard>
 
 ### Launch
