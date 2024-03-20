@@ -104,6 +104,10 @@ Spells which do not directly affect objects or creatures (e.g. Distortion illusi
 
 Circle Magic allows you and your allies to pool your mana to cast more powerful spells. Each participant can provide any amount of mana (up to the maximum they could provide to a ritual-speed spell). Use the spell enhancements (and skill enhancements that affect spells) of whoever leads the circle.
 
+- The leader of the circle starts the circle using the Circle Magic ritual, and chooses how much mana to provide.
+- Each participant also uses the Circle Magic ritual to join, and chooses how much mana to provide to the spell (at ritual speed).
+- The leader chooses a spell to cast (using any enhancements available to them), using the total amount of mana provided by all participants. The spell is cast at ritual speed, regardless of its usual speed.
+
 ## Trace Magic
 
 Traces are a kind of permanent spell affecting creatures or objects without requiring concentration.
