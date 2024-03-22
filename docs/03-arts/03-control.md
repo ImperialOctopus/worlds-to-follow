@@ -2,6 +2,8 @@
 
 Influence thoughts. Shape wills. Never take "no" for an answer. Erase, re-write, believe.
 
+[![Canvas of the magical art Control](@site/static/canvas/Arts/Control.png)](@site/static/canvas/Arts/Control.png)
+
 ## Command
 
 <AbilityCard

@@ -2,6 +2,8 @@
 
 Manipulate motion on an object scale. Pick things up. Put things down. Move things around. Fly.
 
+[![Canvas of the magical art Macrokinetics](@site/static/canvas/Arts/Macrokinetics.png)](@site/static/canvas/Arts/Macrokinetics.png)
+
 ## Telekinetic Grasp
 
 <AbilityCard

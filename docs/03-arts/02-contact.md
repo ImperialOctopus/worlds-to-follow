@@ -6,6 +6,8 @@ toc_max_heading_level: 4
 
 Send and receive information across distances. Talk to strange beings. Talk to regular beings.
 
+[![Canvas of the magical art Contact](@site/static/canvas/Arts/Contact.png)](@site/static/canvas/Arts/Contact.png)
+
 ## Telepathy
 
 <AbilityCard

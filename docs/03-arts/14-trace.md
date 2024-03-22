@@ -2,6 +2,8 @@
 
 The foundation of modern magic. Burn magic into wood, stone, and skin.
 
+[![Canvas of the magical art Trace](@site/static/canvas/Arts/Trace.png)](@site/static/canvas/Arts/Trace.png)
+
 ## Trace
 
 <AbilityCard

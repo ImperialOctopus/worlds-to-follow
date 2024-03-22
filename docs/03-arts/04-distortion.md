@@ -2,6 +2,8 @@
 
 The senses deceive us from time to time, and it is prudent never to trust wholly those who have deceived us even once.
 
+[![Canvas of the magical art Distortion](@site/static/canvas/Arts/Distortion.png)](@site/static/canvas/Arts/Distortion.png)
+
 ## Create Image
 
 <AbilityCard

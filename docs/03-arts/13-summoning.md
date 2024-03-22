@@ -2,6 +2,8 @@
 
 Bring things into the world that exist elsewhere. Give form to things without form. Walk across the Arc-en-Ciel.
 
+[![Canvas of the magical art Summoning](@site/static/canvas/Arts/Summoning.png)](@site/static/canvas/Arts/Summoning.png)
+
 ## Summon Familiar
 
 <AbilityCard

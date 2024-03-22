@@ -2,6 +2,8 @@
 
 Manipulate atomic motion. Fire, ice, electricity, pressure. Explode first, ask questions later.
 
+[![Canvas of the magical art Microkinetics](@site/static/canvas/Arts/Microkinetics.png)](@site/static/canvas/Arts/Microkinetics.png)
+
 ## Light
 
 <AbilityCard

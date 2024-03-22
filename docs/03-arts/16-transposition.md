@@ -2,6 +2,8 @@
 
 Move things from one place to another without consulting all the places in between.
 
+[![Canvas of the magical art Transposition](@site/static/canvas/Arts/Transposition.png)](@site/static/canvas/Arts/Transposition.png)
+
 ## Transpose
 
 <AbilityCard

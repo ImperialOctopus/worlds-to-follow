@@ -2,6 +2,8 @@
 
 Transfigure water into wine, and vice versa. Do the same with lead, gold, chickens, or eggs.
 
+[![Canvas of the magical art Transformation](@site/static/canvas/Arts/Transformation.png)](@site/static/canvas/Arts/Transformation.png)
+
 ## Transmute
 
 <AbilityCard

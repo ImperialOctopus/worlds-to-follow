@@ -2,6 +2,8 @@
 
 Dissipate the force of incoming attacks. The only way to avoid harm if you value staying human.
 
+[![Canvas of the magical art Protection](@site/static/canvas/Arts/Protection.png)](@site/static/canvas/Arts/Protection.png)
+
 ## Witch Ward
 
 <AbilityCard

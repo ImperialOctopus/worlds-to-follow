@@ -2,6 +2,8 @@
 
 Gain information about your surroundings. Magically enhanced senses. Synthetic senses.
 
+[![Canvas of the magical art Information](@site/static/canvas/Arts/Information.png)](@site/static/canvas/Arts/Information.png)
+
 ## Read Record
 
 <AbilityCard

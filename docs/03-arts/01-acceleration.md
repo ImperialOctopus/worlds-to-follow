@@ -2,6 +2,8 @@
 
 Speed up, slow down. Skirt the edges of causality. Time is a river; sink to the bottom.
 
+[![Canvas of the magical art Acceleration](@site/static/canvas/Arts/Acceleration.png)](@site/static/canvas/Arts/Acceleration.png)
+
 ## Fast-Forward
 
 <AbilityCard

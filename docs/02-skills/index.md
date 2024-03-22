@@ -6,6 +6,8 @@ slug: "/skills"
 
 Skills are divided into four sections, each containing six skills.
 
+[![Canvas listing all skill categories](@site/static/canvas/Skills.png)](@site/static/canvas/Skills.png)
+
 import CustomDocCard from "@theme/CustomDocCard";
 
 <section className="row">

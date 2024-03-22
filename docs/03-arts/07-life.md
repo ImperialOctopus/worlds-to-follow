@@ -2,6 +2,8 @@
 
 Pull things back from other places. Build, rebuild. Grow, regrow. Transgress the natural order.
 
+[![Canvas of the magical art Life](@site/static/canvas/Arts/Life.png)](@site/static/canvas/Arts/Life.png)
+
 ## Repair
 
 <AbilityCard

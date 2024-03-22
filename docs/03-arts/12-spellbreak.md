@@ -2,6 +2,8 @@
 
 Read and understand magic. Undo it. Interrupt, redirect and disperse. Stay on your guard.
 
+[![Canvas of the magical art Spellbreak](@site/static/canvas/Arts/Spellbreak.png)](@site/static/canvas/Arts/Spellbreak.png)
+
 ## Unwind
 
 <AbilityCard

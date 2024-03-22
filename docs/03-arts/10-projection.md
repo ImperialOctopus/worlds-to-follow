@@ -2,6 +2,8 @@
 
 Create temporary objects from magic. Raise a wall, raise a staircase, raise a blade.
 
+[![Canvas of the magical art Projection](@site/static/canvas/Arts/Projection.png)](@site/static/canvas/Arts/Projection.png)
+
 ## Flexible Projection
 
 <AbilityCard
